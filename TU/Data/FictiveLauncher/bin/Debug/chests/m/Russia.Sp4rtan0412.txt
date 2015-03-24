@@ -1,0 +1,201 @@
+Abomination-6(4)
+Absorption Shield-6(2)
+Abunis-6(2)
+Aegis-6(2)
+Aggeroth-6(6)
+Alaric-6
+Anvil-6(2)
+Apex-6(4)
+Arch Nova-6(7)
+Ardengraul-6
+Arkadios-6
+Ascaris-4
+Astral Strafer-6(2)
+Auger Bore-6
+Auger Ream-6
+Auger-6(2)
+Baleful Initiate-6(2)
+Bane of Triumph-6
+Bane-6(6)
+Barracus-6
+Battalion-6
+Baughe-6(4)
+Benediction-6(2)
+Blackrock-6(2)
+Blood Pool-6(2)
+Bolt Crag-6(3)
+Brood Mother-6
+Bulldozer-6(2)
+Burrower-6(4)
+Captain Dovan-6(10)
+Chevalier-6(2)
+Chronoshift-6(2)
+Clawgor-6
+Cockatrice Baxis-6
+Constantine-6
+Contaminant Scour-6(2)
+Council's Hubris-6
+Croc Oppressor-6(3)
+Croc Trooper-6(12)
+Crushing Anvil-6
+Crypt Keeper-6(12)
+Cyclops-6(2)
+Cyegling-6(2)
+Cyrus-4
+Daedalus-6
+Daemon-6(2)
+Decadroid-6(4)
+Demon of Embers-6(4)
+Den Spotter-6(4)
+Destruction Reaver-6
+Dire Retriever-6
+Divinity-6(3)
+Dracorex-6
+Dreamhaunter-6
+Dreamweaver-6(2)
+Elite Soldier-6(4)
+Emerald Rider-6(2)
+Empress-6
+Enhancement Depot-6(8)
+Entrails Pool-6
+Equalizer-6(2)
+Erebus City Sector-6(2)
+Executioner Hiborn-6
+Exoskeleton-6(8)
+Extinguisher of Light-6
+Extinguisher-6(2)
+Ezamit Tranq-6
+Falcion-6(2)
+Forebearer-6(4)
+Gehenna Cursed-6(2)
+Geist-6(2)
+Genetics Pit-6(2)
+Gluttonous Fiend-6(2)
+Gorivore-6(2)
+Gornivorous-6
+Gorrus Carn-6(2)
+Gorrus-6(4)
+Grand Templar-6
+Greatheart-6
+Grizrael-6(3)
+Guillotine-6(12)
+Halcyon-6
+Halesurge-6(4)
+Hazard-6(4)
+Hellwing-6(3)
+Hephatat Fury-6
+Hephatat-6(2)
+Hexsin-6(2)
+Honorable Samurai-6
+Howling Malgoth-6(2)
+Iron Maiden-6(2)
+Irrian-6(2)
+Jet Trooper-6(12)
+Jyackavor-6(3)
+Keres-6(2)
+Kezerus-6(4)
+Krellus-6
+Kruger-6(4)
+Kylen-6
+Launcher-6(4)
+Lord Silus-6
+Lowbrow-6(4)
+Lucifire-6
+Lurker Beast-6(2)
+Magnus-6(2)
+Maion-4
+Malgoth-6(2)
+Malika-4
+Malort-6
+Marshall-6(4)
+Meld-6(4)
+Mephalus-6(2)
+Messale-6
+Messiar-6(2)
+Metalworks-6(4)
+Meteor Hammer-6(4)
+Missile Silo-6(2)
+Mongore-6(2)
+Mongresh-6
+Neo Excavator-6(2)
+Nerve Post-6(4)
+Nexor-6
+Nexusisite-6(6)
+Nightcrawler-6
+Nightlurker-6
+Nimbus-6(2)
+Noxious Tank-6
+Obsidian-6
+Octane's Base-6(7)
+Octane-6
+Odynn-6(4)
+Omega-6(4)
+Onyx-6
+Oreworks-6(2)
+Pantyke-6(2)
+Petrisis-6
+Primus-6(2)
+Qotic-6
+Quake-6(7)
+Rampage Rumbler-6
+Rampage-6(2)
+Razor Pinion-6(2)
+Reaver-6(2)
+Retriever-6(4)
+Robo-6(2)
+Sacred Sanctuary-6
+Sanctuary-6(4)
+Savant Ascendant-6
+Scab Grot-6
+Scab-6(4)
+Scorched Hellwing-6(3)
+Serraco Lord-6
+Serraco-6(2)
+Shade-6(4)
+Shapeshifter-6(12)
+Sinew Feeder-6(2)
+Skulker-6(2)
+Sky Hawk-6(4)
+Slug Borg-6(4)
+Smog Tank-6(2)
+Snowfall-6(4)
+Spiteful Raptor-6
+Sporadic Nado-6(4)
+Steel Vulture-6(4)
+Stinger-6
+Stoneheart-6
+Styxelt-6
+Subterran Horror-6(4)
+Tabitha-6
+Talendath-6(2)
+Tartarus Scion-6(2)
+Tazerious-6
+Tempest Citadel-6
+Templar-6(4)
+Terrogor-4
+Terrorsaur-6(8)
+Thunder Crag-6(7)
+Tiamat-6
+Towering Machina-6
+Trench Lobber-6
+Trench-6(6)
+Tundra-6(12)
+Tygarm-6
+Typhon Vex-6
+Valencio-6(3)
+Vegna-6
+Vigil-6(2)
+Vigilant Racer-6(2)
+Vigilant Wagon-6
+Vivisection-6(4)
+Vyander-6
+Warp Sculptor-6(8)
+Windreaver-6(2)
+Worldformer-6
+Wraith-6(3)
+Wurz-6(4)
+Xanadu Tetra-6
+Xanadu-6(2)
+Xeno Suzerain-6
+Xillanail-6
+Yurich-6

@@ -1,0 +1,162 @@
+Abhorrent Recluse-6(2)
+Absorption Shield-6(2)
+Aegis-6(2)
+Aggeroth Chaos-6
+Alaric-6
+Apex-6(6)
+Arch Nova Alpha-6
+Arch Nova-6(3)
+Archangel-6(2)
+Ardengraul-6
+Arkadios-6
+Artemis Arc Core-6
+Ascaris-4
+Auger Ream-6
+Ayrkrane Syn-6
+Bane of Triumph-6
+Bane-6(4)
+Barracus-6
+Baughe-6(3)
+Benediction-6(3)
+Blisandro-6
+Blood Pool-6(2)
+Bolt Crag-6(2)
+Brood Mother-6
+Burrower-6(4)
+Cadaver-6(4)
+Chainslicer-6
+Charincinerator-6
+Chevalier-6(2)
+Chronoshift-6(2)
+Cockatrice Pixas-6
+Constantine-6
+Croc Oppressor-6(3)
+Cyrus-4
+Daedalus-6
+Daemon-6(5)
+Deceiver-6(4)
+Demi Constrictor-6
+Demon of Embers-6(3)
+Deserted Baughe-6
+Divinity-6(2)
+Draconian Queen-6(3)
+Dracorex-6
+Dreadship-6(2)
+Dreamhaunter-6
+Dreamweaver-6(2)
+Dune Runner-6
+Eliminator-6(4)
+Elite Soldier-6(4)
+Emerald Rider-6(2)
+Empress-6
+Extinguisher of Light-6
+Extinguisher-6(2)
+Ezamit Tranq-6
+Falcion-6
+Galvanic Commando-6
+Garrison Fortifier-6
+Genetics Pit-6(2)
+Gluttonous Fiend-6(2)
+Gorrus Carn-6
+Gorrus-6(2)
+Grand Templar-6
+Grizrael-6
+Guardian Gamut-6
+Guillotine Grinder-6
+Halcyon-6
+Haven-bearer-6
+Havoc-6(2)
+Honorable Samurai-6
+Indestructible Troop-6
+Invoskeleton-6
+Iron Maiden-6
+Irrian-6(2)
+Jet Trooper-6(8)
+Judge-6(4)
+Justice Victorious-6
+Jyackavor-6(2)
+Kaiser Savage-6
+Krellus-6
+Kylen-6
+Longshot Deadeye-6
+Lord Silus-6
+Lowbrow-6(2)
+Lucidous-6
+Lurker Beast-6(2)
+Lynx-6(4)
+Maion-4
+Malgoth-6(5)
+Malika-4
+Malort-6
+Marshall-6(7)
+Mawcor-6(2)
+Mawgore-6
+Messiar-6(2)
+Missile Silo-6(4)
+Mobile Base-6
+Mongarus-6
+Mountain-6(4)
+Myriad-6(4)
+Neo Excavator-6
+Neocyte Extractor-6(4)
+Nexor-6
+Nightscreecher-6(2)
+Nimbus-6(6)
+Noble Defiance-6
+Obsidian-6
+Octane's Bulwark-6
+Octane-6
+Omega-6(2)
+Omniseer-6
+Onyx-6
+Oreworks-6
+Pantyke-6
+Petrisis-6
+Portal Noctil-6
+Ravenous Terrorsaur-6(3)
+Razarp Shank-6
+Reclaimer-6(4)
+Retriever-6
+Sacred Sanctuary-6
+Sanctuary-6
+Savant Ascendant-6
+Scorched Hellwing-6
+Sculpted Aegis-6
+Serraco Sire-6
+Shapesavant-6(3)
+Shock Disruptor-6(2)
+Skulker-6(3)
+Slithertore-6(2)
+Smog Tank-6(2)
+Sphinxite Liberated-6
+Star Burner-6
+Starformer-6
+Statishocker-6
+Steel Mill-6(2)
+Stoneheart-6
+Surgeon-6(4)
+Swindler-6(8)
+Tabitha-6
+Taser-6(3)
+Tazerious-6
+Terrogor-4
+Tiamat-6(3)
+Tikal-6(2)
+Trench Hurler-6
+Trench-6(4)
+Tundra-6(4)
+Tygarm Resolute-6
+Typhon Vex-6
+Ugolin-6(2)
+Valencio-6
+Vegna-6
+Vigil-6(2)
+Vyander-6
+Windreaver-6(2)
+Withersnare-6
+Wraith-6(2)
+Xeno Mothership-6(3)
+Xillafang-6(2)
+Yurich-6
+Zantus-6(4)
+Zodiac Harbinger-6(2)

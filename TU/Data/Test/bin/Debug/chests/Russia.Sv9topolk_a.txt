@@ -1,0 +1,188 @@
+Abhorrent Recluse-6(2)
+Absorption Shield-1(4)
+Absorption Shield-4
+Adytum-2(3)
+Aegis-1(3)
+Aegis-2(2)
+Aegis-3
+Aegis-5
+Aegis-6
+Aggeroth-1(8)
+Alaric-1
+Arch Nova Alpha-6
+Arch Nova Elite-6
+Arch Nova-1
+Arkadios-1
+Ascaris-1
+Ascendant-1(2)
+Assembly Plant-2
+Astral Strider-6
+Auger Bore-1
+Auger Ream-6
+Ayrkrane Syn-6
+Bane of Triumph-1
+Bane-1(2)
+Barracus-6
+Baughe-1(4)
+Baughe-6(2)
+Benediction-1(3)
+Benediction-2(2)
+Blackrock-1(10)
+Blackrock-5
+Blight Crusher-1(4)
+Blight Crusher-2(2)
+Blight Crusher-4
+Blitz Armor-2
+Blitz-2(2)
+Blood Pool-1(4)
+Blood Pool-2(4)
+Brood Mother-1
+Brood Walker-2
+Bulldozer-1
+Burrower-1(5)
+Cannon Walker-2
+Chainslicer-6
+Chevalier-1(2)
+Chronoshift-1(2)
+Constantine-6
+Contaminant Scour-1(5)
+Contaminant Scour-4
+Contaminant Scour-5
+Croc Trooper-1(4)
+Cyrus-3
+Daedalus-1
+Daemon-1(6)
+Demi Constrictor-6
+Demon of Embers-1(7)
+Demon of Embers-4
+Dire Retriever-1
+Divinity-1(2)
+Draconian Queen-1
+Draconian Queen-2
+Draconian Queen-4(3)
+Dracorex-2
+Dreadship-1(2)
+Dreadship-2(4)
+Dreamhaunter-6
+Dreamweaver-1
+Emerald Rider-1(2)
+Empress-4
+Equalizer-1(4)
+Ezamit Tranq-6
+Falcion-1(4)
+Falcion-4
+Fanatic-1
+Faress-1
+Fortified Cannons-2
+Geist-1(2)
+Genetics Pit-1(4)
+Glaive-2(2)
+Gluttonous Fiend-1(2)
+Gorrus Carn-1
+Gorrus-1(3)
+Grim Specter-1(4)
+Grizrael-1
+Halcyon-1
+Halesurge-1(4)
+Havoc-1(6)
+Hephatat Fury-1
+Hephatat-1(2)
+Honorable Samurai-6(2)
+Imperial APC-2(2)
+Indebted Veteran-2(3)
+Iron Maiden-1(6)
+Irrian-1(2)
+Jyackavor-1(2)
+Knight-2(2)
+Krellus-1
+Kylen-1
+Lord Silus-6
+Lowbrow-1(2)
+Lucidier-1(4)
+Lucidous-1
+Lummox-2
+Lurker Beast-1(12)
+Lurker Beast-4
+Maion-4
+Malgoth-1(4)
+Malgoth-2
+Malgoth-3
+Malika-1
+Malort-6
+Marshall-1(6)
+Meld-1(4)
+Messiar-1
+Missile Silo-1(9)
+Moloch-2(2)
+Mongore-1(3)
+Mongresh-6
+Neo Excavator-1(2)
+Neo Excavator-2(2)
+Nexor-6
+Nexusisite-1
+Nightcrawler-1(4)
+Nimbus-1(4)
+Noble Defiance-6
+Obsidian-6
+Octane's Base-1(4)
+Octane's Base-3(2)
+Octane-1
+Omega-1(2)
+Pantyke-1
+Petrisis-1
+Qotic-1
+Quake-1
+Ravenous Terrorsaur-6
+Retriever-1(2)
+Sacred Equalizer-6
+Sacred Sanctuary-6
+Sanctuary-1(2)
+Scarab-2(2)
+Sculpted Aegis-6
+Serraco Sire-6
+Serraco-1(2)
+Shapeshifter-1(4)
+Shock Disruptor-6(3)
+Sinew Feeder-1(6)
+Skulker-1(3)
+Smog Tank-1(5)
+Smog Tank-2(2)
+Smog Tank-5
+Spiteful Raptor-6
+Sporadic Nado-1(4)
+Starformer-6
+Steel Maiden-6
+Stoneheart-6
+Styxelt-1
+Subterran Horror-1(2)
+Tabitha-1
+Tazerecca-6
+Tazerok-1
+Tazerok-3
+Tempest Hold-6
+Terminator-2(2)
+Terrogor-1
+The Adversary-6
+Tiamat-1(3)
+Tiamat-5
+Tiamat-6(2)
+Trench Lobber-1
+Trench-1(6)
+Typhon Vex-1
+Valencio-1
+Vegna-1
+Vigil-1(5)
+Vigil-3(2)
+Vigil-5
+Vigilant Racer-1(3)
+Vulture-1(4)
+Vyander-1
+Windreaver-1(4)
+Windreaver-2(3)
+Wraith-1(2)
+Xeno Mothership-1(7)
+Xeno Suzerain-6
+Xillafang-1(4)
+Xillafang-2(2)
+Yurich-1
+Zodiac Harbinger-6(2)

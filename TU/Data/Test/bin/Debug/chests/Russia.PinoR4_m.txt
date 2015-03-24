@@ -1,0 +1,122 @@
+Absorption Shield-6(6)
+Adytum-4
+Aegis-6(5)
+Aggeroth Chaos-6
+Aggeroth-6
+Alaric-6
+Animus Geist-6
+Apex-6(3)
+Arch Nova Alpha-6
+Arch Nova-6(3)
+Arkadios-6
+Ascaris-4
+Ascendant-6(2)
+Auger Bore-6
+Auger-6(2)
+Bane-6(3)
+Barracus-6
+Baughe-6(2)
+Benediction-6(4)
+Blackrock-6(3)
+Blaze Nado-6
+Blight Crusher-6(5)
+Blisandro-6
+Blitz-4
+Blood Pool-6(5)
+Bolt Crag-6(2)
+Boundless Blight-6
+Brood Mother-6
+Bulldozer-6(3)
+Burrower-6(5)
+Charincinerator-6
+Chevalier-6(2)
+Chronoshift-6(2)
+Constantine-6
+Contaminant Scour-6
+Croc Oppressor-6
+Cyrus-4
+Daedalus-6
+Daemon-6(4)
+Demi Constrictor-6
+Demon of Embers-6(5)
+Deserted Baughe-6
+Divinity-6(2)
+Draconian Queen-6(4)
+Dracorex-6
+Dreadship-6(5)
+Dreamhaunter-6
+Dreamweaver-6
+Elite Soldier-6(2)
+Emerald Rider-6(2)
+Emerging Basilisk-6
+Empress-6
+Enfeebler-3
+Equalizer-6
+Exogrunt-3
+Experiment Gasher-6
+Ezamit Tranq-6
+Falcion-6(4)
+Genetics Pit-6(3)
+Gluttonous Fiend-6(3)
+Greatheart-6
+Halcyon-6
+Hephatat Fury-6
+Hephatat-6(2)
+High Constable-6
+Indebted Veteran-4
+Iron Maiden-6
+Irrian-6(2)
+Jyackavor-6
+Krellus-6
+Lord Silus-6
+Lurker Beast-6(5)
+Maion-4
+Malgoth-6(3)
+Malika-4
+Malort-6
+Mawnage-6
+Missile Silo-6(5)
+Nexor-6
+Nightlurker-6
+Nimbus-6(6)
+Obsidian-6
+Octane's Base-6(4)
+Octane-6
+Omega-6(5)
+Petrisis-6
+Ravenous Terrorsaur-6
+Sacred Sanctuary-6
+Sanctuary-6(8)
+Scavenger-3
+Scorched Hellwing-6
+Serraco Sire-6
+Shapesavant-6
+Shapeshifter-6(4)
+Sinew Feeder-6(4)
+Skulker-6(3)
+Smog Tank-6(6)
+Spiteful Raptor-6
+Stoneheart-6
+Tabitha-6
+Tazerious-6
+Terrogor-4
+The Adversary-6
+Thunder Crag-6(4)
+Tiamat-6
+Trench Lobber-6
+Trench-6(2)
+Tundra-6(4)
+Tygarm-6
+Typhon Vex-6
+Veiled Defiler-6(2)
+Vigil-6(3)
+Vigilant Racer-6(2)
+Virtue-6(4)
+Vulture-6(4)
+Vyander-6
+Windreaver-6(4)
+Withersnare-6(3)
+Worldformer-6
+Xeno Mothership-6(3)
+Xillafang-6(3)
+Yurich-6

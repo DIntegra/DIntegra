@@ -1,0 +1,152 @@
+Abhorrent Recluse-6
+Absorption Shield-1
+Aggeroth Chaos-6
+Aggeroth-1
+Alaric-6
+Arch Nova Alpha-6
+Ascaris-4
+Ayrkrane Syn-6
+Ayrkrane-1
+Bane-1(2)
+Banshee-1
+Barracus-6
+Baughe-1(3)
+Beam Gate-1
+Beholder-1
+Benediction-1
+Benediction-6(2)
+Blight Crusher-1(3)
+Blisandro-1
+Blitz-1
+Bolt Crag-6
+Brood Mother-6
+Brood Walker-1(2)
+Brutal Beholder-6
+Bulldozer-1
+Burrower-1(5)
+Carbine-1
+Chevalier-1
+Constantine-6
+Contaminant Purifier-6
+Contaminant Scour-1
+Contaminant Scour-5
+Cyrus-4
+Daemon-1(10)
+Deathsteel Falcion-6(2)
+Demi Constrictor-6
+Demon of Embers-1
+Deranged Malgoth-6
+Draconian Queen-5
+Dracorex-6
+Dreadship-6
+Dreamreaper-6
+Dreamweaver-1
+Empress-2
+Enclave Remnant-1
+Enfeebler-1
+Entrails Bog-6
+Extinguisher-1(3)
+Ezamit Serene-6
+Falcion-1
+Falcion-6
+Fortified Cannons-1
+Fusion Plant-6
+Genetics Pit-1(5)
+Genetics Pit-4
+Genetics Pit-5(2)
+Ghoulish Specter-6
+Glaive-1
+Gluttonous Fiend-1
+Gorrus-1(3)
+Grizrael-1
+Hades Enraged-6
+Halcyon-6
+Halesurge-1(4)
+Havenship-1
+Havoc-5
+Hephatat-1
+Honorable Samurai-6
+Hydra-1
+Indebted Veteran-1(16)
+Insanitius-6
+Jyackavor-2(2)
+Knight-1(2)
+Krellus-6
+Lamprey Nest-1
+Longshot Deadeye-6
+Lowbrow-1(2)
+Lucidier-1
+Lummox-1(2)
+Lurker Beast-1(4)
+Lurker Behemoth-6
+Maion-4
+Malgoth-1
+Malika-4
+Malort-6
+Marshall-1(3)
+Mawcor-1(2)
+Mawgore-6
+Meld-1(2)
+Missile Silo-1
+Moloch-1(2)
+Mongarus-6
+Necropocalypse-6
+Neo Excavator-1(4)
+Neo Excavator-2
+Nexor-6
+Nexusis-6
+Nexusisite-1(2)
+Nightlurker-6
+Noble Defiance-6
+Noxious Tank-6
+Octane-1
+Pathrazer-1(5)
+Petrisis-6
+Pylon-1
+Radar Sentry-6
+Retriever-1(2)
+Sacred Equalizer-6
+Sacred Sanctuary-6
+Sage Ascendant-6
+Salvage Stockpile-1
+Sanctuary-1
+Sanctuary-4
+Sanctuary-6
+Scarab-1
+Scorched Hellwing-6
+Serak-1
+Sinew Feeder-1(2)
+Skulker-1(2)
+Smog Tank-1(4)
+Spectre-1
+Spiteful Raptor-6
+Sporadic Nado-1
+Spore Pod-1
+Styxelt-6
+Subterran Horror-1(2)
+Sultan-6
+Support Fleet-6
+Tartarus Brood-6
+Tazerious-6
+Tempest Citadel-6(2)
+Terminator-1(4)
+Terrogor-4
+Tikal-1(2)
+Typhon Vex-6
+Unholy Daemon-6
+Vegna-6
+Veiled Defiler-6
+Vigil-1(7)
+Vigil-5
+Vigilant Racer-1
+Virtue-1(4)
+Vyander-6
+Warp Alchemist-6
+Withersnare-6(2)
+Xeno Mothership-1(3)
+Xeno Mothership-4
+Xeno Suzerain-6
+Xillafang-1(5)
+Yurich-1
+Zephyr Superior-6(2)
+Zodiac Harbinger-6(3)

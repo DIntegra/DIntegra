@@ -1,0 +1,194 @@
+Absorption Shield-1
+Adytum-1
+Aegis-4
+Aggeroth Chaos-6
+Aggeroth-1(3)
+Alaric-6
+Annelid Mass-1
+Apex-1
+Arch Nova Alpha-6
+Arch Zephyr Elite-6
+Ascaris-1
+Ascendant-3
+Ascendant-4
+Assembly Plant-1(3)
+Auger Bore-1
+Auger Ream-6
+Ayrkrane Syn-6
+Ayrkrane-1(2)
+Bane of Truth-6
+Bane-1(3)
+Barracus-6
+Barrage Tank-1(2)
+Baughe-1(2)
+Baughe-2(2)
+Bazooka Marine-1
+Beam Gate-1
+Benediction-1(3)
+Benediction-2
+Blackrock-1
+Blight Crusher-1
+Blisandro-1
+Blitz Armor-1(3)
+Blitz-1(3)
+Blood Pool-1(4)
+Blood Pool-4
+Bolt Crag-6(3)
+Boot Camp-1
+Brood Mother-1
+Brood Walker-1
+Bulldozer-1
+Bulldozer-6
+Burrower-1(4)
+Cannon Walker-1(3)
+Carbine-1(5)
+Charincinerator-6
+Chevalier-1(2)
+Chronoshift-1(2)
+Combat Specialist-1
+Constantine-6
+Contaminant Scour-2(3)
+Contaminant Scour-5
+Credo Defender-1(3)
+Cyberpod-1
+Cyrus-4
+Daedalus-1
+Daemon-1
+Daemon-6(4)
+Demon of Embers-5
+Demon of Flame-1
+Destruction Reaver-1
+Divinity-1
+Dominator-1(3)
+Draconian Queen-5
+Dracorex-1
+Dreadship-1
+Dreamhaunter-6
+Dreamweaver-1
+Elite Soldier-1(5)
+Emerald Rider-1(2)
+Empress-1
+Enclave Parasite-1
+Enclave Remnant-1
+Enfeebler-1
+Equalizer-1
+Equalizer-4(2)
+Equalizer-5
+Extinguisher of Light-1
+Extinguisher-1(5)
+Ezamit Serene-6
+Falcion-1(4)
+Fanatic-1
+Fighter Jet-1
+Fortified Cannons-1
+Geist-1(2)
+Genetics Pit-6(4)
+Glaive-1(3)
+Gluttonous Fiend-1(2)
+Gorrus-1(6)
+Grand Templar-6
+Greatheart-1
+Grizrael-1
+Grizrael-2
+Guardian Gamut-6
+Halcyon-4
+Havenship-1(2)
+Havoc Alpha-5
+Havoc-1(3)
+Headhunter-1
+Hephatat-1
+Honorable Samurai-6
+Hydra-1(3)
+Hypastryx-1(2)
+Imperial APC-1(6)
+Indebted Veteran-1(4)
+Infantry-1(4)
+Invasion Blockade-1
+Iron Maiden-1(2)
+Irrian-1(2)
+Jyackavor-2(2)
+Knight-1(2)
+Krellus-1
+Kylen-1
+Longshot Deadeye-6
+Lord Silus-1
+Lowbrow-1(2)
+Lummox-1(2)
+Lurker Beast-4
+Maion-1
+Malgoth-1(7)
+Malika-1
+Mark of Hope-1
+Marshall-1(5)
+Masterwork Aegis-6
+Medic-1(2)
+Meld-1(6)
+Messiar-1(2)
+Metalworks-2
+Missile Silo-4
+Moloch-1(3)
+Mongore-1
+Neo Excavator-1
+Nexor-1
+Nexusisite-1
+Nightcrawler-1(2)
+Nimbus-1
+Obsidian-6
+Octane's Base-1(5)
+Octane-1
+Omega-1(4)
+Ophiuchus Dux-6
+Pantheon Disciple-1
+Pantheon Progeny-1(2)
+Partisan-1(2)
+Pathrazer-1(4)
+Peacekeeper-1(2)
+Petrisis-6
+Primus-1
+Pylon-1(3)
+Quake-1(3)
+Raider Encampment-1
+Rally Infantry-1(2)
+Razor Maiden-6
+Reaver-1(4)
+Reconnoiter-1(6)
+Retriever-1(3)
+Revolver-1
+Sacred Sanctuary-6
+Salvage Warehouse-1
+Sanctuary-1(2)
+Sanctuary-5
+Scarab-1(2)
+Selfless Soldier-1(2)
+Sentry-1(3)
+Serak United-6
+Serraco Sire-6
+Serraco-1
+Sinew Feeder-1(3)
+Skulker-1(2)
+Smite Forger-6(2)
+Smog Tank-4(2)
+Spectre-1
+Sporadic Nado-1(5)
+Starformer-5
+Stinger-1
+Stoneheart-6
+Swift Troops-1(2)
+Tabitha-1
+Tempest Citadel-6
+Terminator-1(3)
+Terrogor-1
+Trap Setter-1(4)
+Trench Lobber-1
+Trench-1(4)
+Twinblade-1(3)
+Tygarm Adamant-6
+Typhon Vex-6
+Vegna-1
+Vigil-1(3)
+Vigilant Racer-1(5)
+Vyander-1
+Wraith-1(3)
+Xeno Singularis-1
+Yurich-1
+Zodiac Harbinger-6(4)

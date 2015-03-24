@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A2FF228F-2A1F-4010-91E3-47369E00F9B1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PersonalMessages</RootNamespace>
+    <AssemblyName>PersonalMessages</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BB1F664B-9266-4fd6-B973-E1E44974B511};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <SandboxedSolution>False</SandboxedSolution>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.SharePoint" />
+    <Reference Include="Microsoft.SharePoint.Security" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="key.snk" />
+    <None Include="Layouts\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{eaafff69-4879-4a29-9cac-5a0d094b4b0f}</SharePointProjectItemId>
+    </None>
+    <None Include="Package\Package.package">
+      <PackageId>{a49bc68b-9121-434c-adf2-41b2ddfbae22}</PackageId>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Features\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Layouts\PersonalMessages\external\jquery.js" />
+    <Content Include="Layouts\PersonalMessages\images\ui-bg_flat_30_cccccc_40x100.png" />
+    <Content Include="Layouts\PersonalMessages\images\ui-bg_flat_50_5c5c5c_40x100.png" />
+    <Content Include="Layouts\PersonalMessages\images\ui-bg_glass_20_555555_1x400.png" />
+    <Content Include="Layouts\PersonalMessages\images\ui-bg_glass_40_0078a3_1x400.png" />
+    <Content Include="Layouts\PersonalMessages\images\ui-bg_glass_40_ffc73d_1x400.png" />
+    <Content Include="Layouts\PersonalMessages\images\ui-bg_gloss-wave_25_333333_500x100.png" />
+    <Content Include="Layouts\PersonalMessages\images\ui-bg_highlight-soft_80_eeeeee_1x100.png" />
+    <Content Include="Layouts\PersonalMessages\images\ui-bg_inset-soft_25_000000_1x100.png" />
+    <Content Include="Layouts\PersonalMessages\images\ui-bg_inset-soft_30_f58400_1x100.png" />
+    <Content Include="Layouts\PersonalMessages\images\ui-icons_222222_256x240.png" />
+    <Content Include="Layouts\PersonalMessages\images\ui-icons_4b8e0b_256x240.png" />
+    <Content Include="Layouts\PersonalMessages\images\ui-icons_a83300_256x240.png" />
+    <Content Include="Layouts\PersonalMessages\images\ui-icons_cccccc_256x240.png" />
+    <Content Include="Layouts\PersonalMessages\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="Layouts\PersonalMessages\jquery-ui.css" />
+    <Content Include="Layouts\PersonalMessages\jquery-ui.min.css" />
+    <Content Include="Layouts\PersonalMessages\jquery-ui.min.js" />
+    <Content Include="Layouts\PersonalMessages\jquery-ui.structure.css" />
+    <Content Include="Layouts\PersonalMessages\jquery-ui.structure.min.css" />
+    <Content Include="Layouts\PersonalMessages\jquery-ui.theme.css" />
+    <Content Include="Layouts\PersonalMessages\jquery-ui.theme.min.css" />
+    <Content Include="Layouts\PersonalMessages\mwin.js" />
+    <Content Include="Layouts\PersonalMessages\pmmngr.js" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" />
+</Project>

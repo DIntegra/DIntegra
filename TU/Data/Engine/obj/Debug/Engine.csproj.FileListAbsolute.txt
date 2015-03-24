@@ -1,0 +1,7 @@
+C:\Source\DIntegra\TU\Data\Engine\bin\Debug\DIntegra.TU.Engine.dll
+C:\Source\DIntegra\TU\Data\Engine\bin\Debug\DIntegra.TU.Engine.pdb
+C:\Source\DIntegra\TU\Data\Engine\obj\Debug\DIntegra.TU.Engine.dll
+C:\Source\DIntegra\TU\Data\Engine\obj\Debug\DIntegra.TU.Engine.pdb
+C:\Source\DIntegra\TU\Data\Engine\bin\Debug\Interop.Shell32.dll
+C:\Source\DIntegra\TU\Data\Engine\obj\Debug\Interop.Shell32.dll
+C:\Source\DIntegra\TU\Data\Engine\obj\Debug\Engine.csproj.ResolveComReference.cache

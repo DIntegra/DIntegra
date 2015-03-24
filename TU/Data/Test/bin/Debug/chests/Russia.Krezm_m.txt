@@ -1,0 +1,95 @@
+Adytum-4(2)
+Alaric-6
+Apex-6
+Apparition-6
+Arch Nova Alpha-6
+Arkadios-6
+Ascaris-4
+Ascendant-6(2)
+Assembly Plant-4(2)
+Bane of Triumph-6
+Bane of Truth-6
+Bane-6(2)
+Barracus-6
+Blitz Armor-4
+Blitz-4
+Blood Pool-6
+Bolt Crag-6
+Brood Mother-6
+Burrower-6(5)
+Cannon Walker-4(2)
+Charincinerator-6
+Chevalier-6(2)
+Chronoshift-6(2)
+Constantine-6
+Crude Surgeon-6
+Cyrus-4
+Daedalus-6
+Demi Constrictor-6
+Demo Aspirant-6
+Demon of Embers-6(2)
+Deserted Baughe-6
+Divinity-6(2)
+Draconian Queen-6(2)
+Dracorex-6
+Dreamhaunter-6
+Empress-6
+Enclave Remnant-4(3)
+Ezamit Serene-6
+Ezamit-6
+Fortified Cannons-4
+Glaive-4(3)
+Gorrus-6(2)
+Halcyon-6
+Hephatat-6(2)
+Hydra-4(3)
+Imperial APC-4(2)
+Indebted Veteran-4
+Inferno Demon-6
+Irrian-6(2)
+Jyackavor-6
+Knight-4(3)
+Krellus-6
+Kylen-6
+Lord Silus-6
+Lowbrow-6(3)
+Lucifire-6
+Maion-4
+Malika-4
+Malort-6
+Marshall-6(2)
+Meld-6
+Messiar-6(2)
+Moloch-4(2)
+Nexor-6
+Obsidian-6
+Octane's Base-6(2)
+Octane-6
+Omega-6
+Oreworks-6
+Partisan-3(2)
+Pathrazer-4(3)
+Petrisis-6
+Primus-6(3)
+Promethium Solidus-6
+Rebuke Quake-6
+Reconnoiter-3
+Scarab-4(2)
+Serrated Grater-6
+Shock Disruptor-6(2)
+Skulker-6(2)
+Spectre-4(2)
+Stoneheart-6
+Tabitha-6
+Terminator-4(2)
+Terrogor-4
+Trench Hurler-6(2)
+Twinblade-4(2)
+Twindecimator-6
+Typhon Vex-6
+Vigilant Racer-6
+Vyander-6
+Xeno Mothership-6
+Xeno Singularis-4(2)
+Xillanail-6
+Yurich-6

@@ -1,0 +1,16 @@
+C:\Source\DIntegra\TU\Data\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+C:\Source\DIntegra\TU\Data\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+C:\Source\DIntegra\TU\Data\Forms\obj\Debug\DIntegra.TU.Forms.FDeckUpdater.resources
+C:\Source\DIntegra\TU\Data\Forms\obj\Debug\DIntegra.TU.Forms.FLogin.resources
+C:\Source\DIntegra\TU\Data\Forms\obj\Debug\DIntegra.TU.Forms.FMainForm.resources
+C:\Source\DIntegra\TU\Data\Forms\bin\Debug\DIntegra.TU.Data.dll
+C:\Source\DIntegra\TU\Data\Forms\bin\Debug\DIntegra.TU.Data.pdb
+C:\Source\DIntegra\TU\Data\Forms\bin\Debug\DIntegra.TU.Forms.dll
+C:\Source\DIntegra\TU\Data\Forms\bin\Debug\DIntegra.TU.Forms.pdb
+C:\Source\DIntegra\TU\Data\Forms\obj\Debug\DIntegra.TU.Forms.dll
+C:\Source\DIntegra\TU\Data\Forms\obj\Debug\DIntegra.TU.Forms.pdb
+C:\Source\DIntegra\TU\Data\Forms\bin\Debug\DIntegra.TU.Engine.dll
+C:\Source\DIntegra\TU\Data\Forms\bin\Debug\DIntegra.TU.Engine.pdb
+C:\Source\DIntegra\TU\Data\Forms\obj\Debug\DIntegra.TU.Forms.FCreateProfile.resources
+C:\Source\DIntegra\TU\Data\Forms\obj\Debug\DIntegra.TU.Forms.FChestsDownloader.resources
+C:\Source\DIntegra\TU\Data\Forms\bin\Debug\Interop.Shell32.dll

@@ -1,0 +1,11 @@
+C:\Source\DIntegra\TU\Data\Launcher\obj\x86\Debug\Launcher.csproj.GenerateResource.Cache
+C:\Source\DIntegra\TU\Data\Launcher\obj\x86\Debug\Launcher.FLauncher.resources
+C:\Source\DIntegra\TU\Data\Launcher\obj\x86\Debug\Launcher.Properties.Resources.resources
+C:\Source\DIntegra\TU\Data\Launcher\bin\Debug\Launcher.exe
+C:\Source\DIntegra\TU\Data\Launcher\bin\Debug\Launcher.pdb
+C:\Source\DIntegra\TU\Data\Launcher\obj\x86\Debug\Launcher.exe
+C:\Source\DIntegra\TU\Data\Launcher\obj\x86\Debug\Launcher.pdb
+C:\Source\DIntegra\TU\Data\Launcher\bin\Debug\Launcher.exe.config
+C:\Source\DIntegra\TU\Data\Launcher\bin\Debug\DIntegra.TU.Download.dll
+C:\Source\DIntegra\TU\Data\Launcher\bin\Debug\DIntegra.TU.Download.pdb
+C:\Source\DIntegra\TU\Data\Launcher\obj\x86\Debug\Launcher.csprojResolveAssemblyReference.cache

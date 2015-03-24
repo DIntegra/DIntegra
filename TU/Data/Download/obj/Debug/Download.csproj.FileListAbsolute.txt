@@ -1,0 +1,4 @@
+C:\Source\DIntegra\TU\Data\Download\bin\Debug\DIntegra.TU.Download.dll
+C:\Source\DIntegra\TU\Data\Download\bin\Debug\DIntegra.TU.Download.pdb
+C:\Source\DIntegra\TU\Data\Download\obj\Debug\DIntegra.TU.Download.dll
+C:\Source\DIntegra\TU\Data\Download\obj\Debug\DIntegra.TU.Download.pdb

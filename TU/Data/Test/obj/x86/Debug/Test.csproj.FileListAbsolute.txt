@@ -1,0 +1,7 @@
+C:\Source\DIntegra\TU\Data\Test\bin\Debug\Test.exe
+C:\Source\DIntegra\TU\Data\Test\bin\Debug\Test.pdb
+C:\Source\DIntegra\TU\Data\Test\bin\Debug\DIntegra.TU.Data.dll
+C:\Source\DIntegra\TU\Data\Test\bin\Debug\DIntegra.TU.Data.pdb
+C:\Source\DIntegra\TU\Data\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Source\DIntegra\TU\Data\Test\obj\x86\Debug\Test.exe
+C:\Source\DIntegra\TU\Data\Test\obj\x86\Debug\Test.pdb

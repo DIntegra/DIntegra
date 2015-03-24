@@ -1,0 +1,155 @@
+Acid Spout-1(2)
+Aegis-1(2)
+Aegis-4
+Aggeroth-1(5)
+Aggeroth-2
+Alaric-1
+Apex-1(4)
+Arch Nova Alpha-6
+Arch Nova Elite-6
+Arch Nova-1(2)
+Arkadios-1
+Ascaris-2
+Ascendant-1(4)
+Assailant-1
+Astral Strafer-1(2)
+Auger Bore-1
+Auger Ream-6
+Auger-1(2)
+Ayrkrane-1(4)
+Bane of Triumph-1
+Bane of Truth-6
+Bane-1(2)
+Barracus-6
+Baughe-1(4)
+Benediction-1(2)
+Blackrock-1
+Blight Crusher-1(2)
+Blisandro-1
+Blood Pool-1(2)
+Brood Mother-1
+Brood Walker-1
+Bulldozer-1(6)
+Burrower-1(5)
+Cadmus-6
+Chainslicer-6
+Chevalier-1(2)
+Chronoshift-1(2)
+Constantine-6
+Contaminant Purifier-6
+Contaminant Scour-1(2)
+Corrupted Daemon-6
+Cyrus-1
+Daedalus-1
+Daemon-1(2)
+Demi Constrictor-6
+Demon of Embers-4(2)
+Destruction Reaver-1
+Divinity-1(2)
+Draconian Queen-1(2)
+Dracorex-1
+Dreadship-1(2)
+Dreamhaunter-6
+Dreamweaver-1(2)
+Dune Runner-6
+Elite Soldier-1(4)
+Emerald Rider-1(2)
+Empress-1
+Equalizer-1(2)
+Ezamit Tranq-6
+Falcion-1
+Falcion-4
+Forsaken Beetle-6
+Geist-1(2)
+Genetics Pit-1(2)
+Gluttonous Fiend-1(3)
+Gorrus-1(2)
+Greatheart-1
+Grizrael-1
+Grunt-1
+Guardian Gamut-6
+Halcyon-6
+Halesurge-1(4)
+Havoc-1
+Hephatat Stoic-6(2)
+Hephatat-1
+Honorable Samurai-6
+Iron Maiden-1(3)
+Irrian-1(2)
+Jilted Baughe-6
+Jyacinx-6
+Jyackavor-1
+Krellus-1
+Kylen-1
+Lord Silus-6
+Lowbrow-1(3)
+Lucidier-1(2)
+Lucifire-6
+Lurker Beast-1(2)
+Maion-2
+Malgoth-1(4)
+Malika-4
+Malort-1
+Marshall-1(7)
+Medic-1
+Meld-1(4)
+Messiar-1(4)
+Missile Silo-1(2)
+Moloch-1
+Mongore-1(5)
+Mongore-2
+Nexor-1
+Nexusisite-1(4)
+Nightcrawler-1(5)
+Nimbus-1(3)
+Noble Defiance-6
+Obsidian-6
+Octane's Bastion-6
+Octane's Bulwark-6
+Octane-1
+Omega-1
+Pantyke-1
+Petrisis-4
+Quake-1
+Rampage Rumbler-1
+Rampage-1(2)
+Reaver-1(2)
+Regeneration Bay-1
+Retriever-1(4)
+Sacred Sanctuary-6
+Sanctuary-1(2)
+Sculpted Aegis-6
+Serraco Sire-6
+Shock Disruptor-6
+Sinew Feeder-4
+Skulker-1(3)
+Smog Tank-1(2)
+Spiteful Raptor-6
+Sporadic Nado-1(4)
+Steel Ram-6(2)
+Stinger-1(4)
+Stoneheart-6
+Styxelt-1
+Subterran Horror-1(2)
+Tabitha-6
+Tazerious-6
+Terrogor-1
+Tiamat-1(2)
+Trampling Anvil-6
+Trench Hurler-5
+Trench-1(4)
+Typhon Vex-6
+Valencio-1
+Vegna-1
+Vigil-1(2)
+Vigilant Racer-1(2)
+Vyander-1
+Windreaver-1(4)
+Wraith-1(2)
+Xanadu Tetra-1
+Xanadu-1(2)
+Xeno Mothership-1(2)
+Xeno Suzerain-6
+Xillafang-1(6)
+Yurich-1
+Zodiac Harbinger-6

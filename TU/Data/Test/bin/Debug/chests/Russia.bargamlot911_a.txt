@@ -1,0 +1,166 @@
+Abhorrent Recluse-6
+Absorption Shield-1(3)
+Aegis-1(6)
+Aggeroth Chaos-6
+Aggeroth-1
+Agrius-1(2)
+Alaric-6
+Apex-1(2)
+Arch Nova Alpha-6
+Arch Nova-2(3)
+Arkadios-6
+Ascaris-1
+Ascendant-1(4)
+Astral Strafer-1(3)
+Auger Bore-2
+Auger Ream-6
+Auger-1(2)
+Ayrkrane-3(4)
+Baleful Initiate-1(2)
+Bane of Triumph-1
+Bane-1(6)
+Barracus-6
+Baughe-1
+Benediction-1(3)
+Blackrock-1
+Blisandro-1
+Blood Pool-1(5)
+Bolt Crag-6(3)
+Brood Mother-4
+Bulldozer-1(5)
+Burrower-1(4)
+Captain Dovan-2(4)
+Charincinerator-6
+Chevalier-1(2)
+Chronoshift-1(2)
+Constantine-6
+Croc Trooper-1(4)
+Cyrus-1
+Daedalus-1
+Daemon-1(2)
+Daemon-5
+Demi Constrictor-6
+Demon of Embers-1(3)
+Deserted Baughe-6
+Divinity-1
+Dracorex-2
+Dreadship-1(4)
+Dreamhaunter-6
+Dreamweaver-1(2)
+Elite Soldier-2(4)
+Emerald Rider-1(2)
+Empress-1
+Enclave Remnant-1
+Equalizer-1(2)
+Erebus City Sector-6(2)
+Ezamit Tranq-6
+Falcion-1
+Faress-1(3)
+Fortifier-1(6)
+Gehenn Heathen-1(2)
+Gehenna Cursed-6(2)
+Genetics Pit-1(3)
+Genetics Pit-4
+Gluttonous Fiend-1(2)
+Gorrus Carn-1
+Gorrus-1(2)
+Grim Specter-1(4)
+Grizrael-1(2)
+Halcyon-1
+Havoc-1
+Heavy Troop-2(2)
+Hephatat Fury-1
+Hephatat-1(3)
+Honorable Samurai-6
+Iron Maiden-1
+Ironclad Troop-4
+Irrian-1(2)
+Jyackavor-5(4)
+Krellus-1
+Kylen-1
+Launcher-1(4)
+Lord Silus-1
+Lowbrow-1(2)
+Lucidier-1(2)
+Lucidous-1
+Lummox-1
+Lurker Beast-1(2)
+Maion-1
+Malgoth-1(3)
+Malika-1
+Malort-6
+Marshall-1(4)
+Meld-1(4)
+Messiar-2(4)
+Missile Silo-1(3)
+Mongore-3(4)
+Neo Excavator-1(2)
+Nexor-6
+Nightcrawler-2(4)
+Nimbus-1(5)
+Noble Defiance-6
+Obsidian Forge-1(2)
+Obsidian-6
+Octane's Base-1(4)
+Octane-1
+Omega-1(3)
+Omniseer-1
+Panopolis-6
+Petrisis-6
+Primus-1(2)
+Qotic-1(2)
+Ravenous Terrorsaur-6
+Reaver-1
+Recovery Sanctum-6
+Relay Station-1(4)
+Sacred Sanctuary-6
+Salvage Stockpile-1(5)
+Salvage Warehouse-1
+Sanctuary-2(2)
+Scorched Hellwing-6
+Serraco Lord-1
+Serraco-3(2)
+Shapeshifter-1(4)
+Sinew Feeder-1(2)
+Skulker-1(2)
+Slithertore-1
+Smite Forger-6
+Snowfall-2(4)
+Spliced Gasher-6
+Sporadic Nado-1(4)
+Starformer-6
+Stoneheart-6
+Stronghold Fortifier-4
+Styxelt-1
+Sultan-6
+Tabitha-1
+Tazerious-6
+Tazerok-1
+Tempest Citadel-6
+Terraformer-1(2)
+Terrogor-4
+Thunder Crag-1(8)
+Tiamat-1
+Trench Lobber-1
+Trench-1(6)
+Tundra-2(4)
+Tygarm-1(2)
+Tygarm-6
+Typhon Vex-6
+Vegna-1(3)
+Vigil-1(3)
+Vigilant Racer-1
+Vulture-1(4)
+Vyander-1
+Warp Alchemist-6
+Windreaver-1(3)
+Withersnare-6
+Wraith-1(3)
+Xanadu Tetra-1
+Xanadu-1(2)
+Xeno Singularis-1
+Xeno Suzerain-6
+Xillafang-1
+Xillanail-6
+Yurich-1
+Zodiac Harbinger-6

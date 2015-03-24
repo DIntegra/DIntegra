@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A72A1DE6-99B4-4382-B212-176C03B7960A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DIntegra.TU.Forms</RootNamespace>
+    <AssemblyName>DIntegra.TU.Forms</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DIntegra.TU.Data, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Data\bin\Release\DIntegra.TU.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="DIntegra.TU.Engine, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Engine\bin\Release\DIntegra.TU.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FChestsDownloader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FChestsDownloader.Designer.cs">
+      <DependentUpon>FChestsDownloader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FCreateProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FCreateProfile.Designer.cs">
+      <DependentUpon>FCreateProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FDeckUpdater.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FDeckUpdater.Designer.cs">
+      <DependentUpon>FDeckUpdater.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FLogin.Designer.cs">
+      <DependentUpon>FLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FMainForm.cs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FMainForm.cs.Designer.cs">
+      <DependentUpon>FMainForm.cs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FChestsDownloader.resx">
+      <DependentUpon>FChestsDownloader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FCreateProfile.resx">
+      <DependentUpon>FCreateProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FDeckUpdater.resx">
+      <DependentUpon>FDeckUpdater.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FLogin.resx">
+      <DependentUpon>FLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FMainForm.cs.resx">
+      <DependentUpon>FMainForm.cs.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,69 @@
+Absorption Barrier-6(2)
+Absorption Forcefield-6(2)
+Alloy Ram-6(6)
+Arch Nova Elite-6
+Astral Strider-6
+Auger Ream-6(2)
+Bane of Truth-6(2)
+Blackrock Cleaver-6(2)
+Blackrock Driller-6(2)
+Blaze Nado-6
+Chronobreak-6
+Covert Jet-6
+Cruise Launcher-6
+Defiance-6(2)
+Dignified Vigil-6
+Divinity Prime-6
+Dreamhaunter-6
+Dune Runner-6(3)
+Elite Brigade-6
+Elite Squadron-6
+Emerald Driver-6
+Emerging Basilisk-6
+Ezamit Serene-6
+Galereaver-6(3)
+Glorious Vigil-6(2)
+Guardian Gamut-6
+Halerift-6
+Haphaz Nado-6
+Hellion-6(3)
+Hephatat Fury-6
+Hephatat Stoic-6(2)
+High Constable-6
+Hodane-6
+Holy Benediction-6
+Hulking Iron-6
+Irrian Trickster-6
+Lofty Chevalier-6
+Lucidous-6
+Lucifire-6
+Masterwork Aegis-6(4)
+Messiah-6
+Nebucadnezzar-6
+Noble Defiance-6
+Obsidian-6
+Octane's Bastion-6
+Octane's Bulwark-6
+Roving Pariah-6
+Sacred Sanctuary-6
+Sage Ascendant-6
+Sculpted Aegis-6(3)
+Seize-6
+Shining Sanctuary-6
+Steadfast Assailant-6
+Steel Ram-6(4)
+Stinger Battalion-6
+Stoneheart-6
+Stormreaver-6(4)
+Swift Hellion-6(2)
+The Tenacious-6(4)
+Tiamat Destructor-6
+Tikalan-6
+Vigilant Wagon-6
+Xillaclaw-6
+Zodiac Harbinger-6(2)
+Zodiac-6(4)
+
+            
+
+

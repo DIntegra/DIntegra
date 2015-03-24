@@ -1,0 +1,8 @@
+C:\Source\DIntegra\TU\Data\Engine\bin\Release\DIntegra.TU.Engine.dll
+C:\Source\DIntegra\TU\Data\Engine\bin\Release\DIntegra.TU.Engine.pdb
+C:\Source\DIntegra\TU\Data\Engine\obj\Release\DIntegra.TU.Engine.dll
+C:\Source\DIntegra\TU\Data\Engine\obj\Release\DIntegra.TU.Engine.pdb
+C:\Source\DIntegra\TU\Data\Engine\bin\Release\DIntegra.TU.Data.dll
+C:\Source\DIntegra\TU\Data\Engine\bin\Release\Ionic.Zip.dll
+C:\Source\DIntegra\TU\Data\Engine\bin\Release\DIntegra.TU.Data.pdb
+C:\Source\DIntegra\TU\Data\Engine\obj\Release\Engine.csprojResolveAssemblyReference.cache

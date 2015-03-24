@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a49bc68b-9121-434c-adf2-41b2ddfbae22" solutionId="a49bc68b-9121-434c-adf2-41b2ddfbae22" resetWebServer="false" name="PersonalMessages" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="eaafff69-4879-4a29-9cac-5a0d094b4b0f" />
+  </projectItems>
+</package>

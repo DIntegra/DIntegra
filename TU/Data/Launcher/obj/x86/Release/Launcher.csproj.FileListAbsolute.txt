@@ -1,0 +1,11 @@
+C:\Source\DIntegra\TU\Data\Launcher\bin\Release\Launcher.exe.config
+C:\Source\DIntegra\TU\Data\Launcher\bin\Release\Launcher.exe
+C:\Source\DIntegra\TU\Data\Launcher\bin\Release\Launcher.pdb
+C:\Source\DIntegra\TU\Data\Launcher\bin\Release\DIntegra.TU.Download.dll
+C:\Source\DIntegra\TU\Data\Launcher\bin\Release\DIntegra.TU.Download.pdb
+C:\Source\DIntegra\TU\Data\Launcher\obj\x86\Release\Launcher.csprojResolveAssemblyReference.cache
+C:\Source\DIntegra\TU\Data\Launcher\obj\x86\Release\Launcher.FLauncher.resources
+C:\Source\DIntegra\TU\Data\Launcher\obj\x86\Release\Launcher.Properties.Resources.resources
+C:\Source\DIntegra\TU\Data\Launcher\obj\x86\Release\Launcher.csproj.GenerateResource.Cache
+C:\Source\DIntegra\TU\Data\Launcher\obj\x86\Release\Launcher.exe
+C:\Source\DIntegra\TU\Data\Launcher\obj\x86\Release\Launcher.pdb

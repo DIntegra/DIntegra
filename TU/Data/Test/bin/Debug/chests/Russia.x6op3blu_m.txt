@@ -1,0 +1,94 @@
+Absorption Barrier-6
+Absorption Shield-6(7)
+Aegis-6(8)
+Alaric-6
+Arch Nova-6(3)
+Arkadios-6
+Ascaris-4
+Ascendant-6(2)
+Astral Strafer-6(2)
+Auger Bore-6
+Auger Ream-6
+Auger-6(2)
+Bane of Triumph-6
+Bane of Truth-6
+Bane-6(3)
+Barracus-6
+Battalion-6
+Benediction-6(2)
+Blackrock Cleaver-6
+Blackrock-6(4)
+Blisandro-6
+Brood Mother-6
+Chevalier-6(2)
+Chronoshift-6(2)
+Constantine-6
+Covert Jet-6
+Cyrus-4
+Daedalus-6
+Dire Retriever-6
+Divinity-6(2)
+Dracorex-6
+Dreamhaunter-6
+Dune Runner-6
+Elite Brigade-6
+Elite Soldier-6(2)
+Emerald Rider-6(2)
+Empress-6
+Ezamit-6(3)
+Faress-6
+Fighter Jet-6
+Galereaver-6
+Greatheart-6
+Guardian Gamut-6
+Halcyon-6
+Halesurge-6(5)
+Hephatat Stoic-6(2)
+Hephatat-6(2)
+High Constable-6
+Imposing Iron-6(4)
+Irrian-6(2)
+Jyackavor-6
+Krellus-6
+Kylen-6
+Launcher-6(4)
+Lord Silus-6
+Lucidier-6(4)
+Lucidous-6
+Maion-4
+Malika-4
+Malort-6
+Marshall-6
+Messale-6
+Messiar-6(2)
+Nebucadnezzar-6
+Nexor-6
+Obsidian-6
+Octane's Base-6(3)
+Octane's Bulwark-6
+Octane-6
+Petrisis-6
+Retriever-6(3)
+Sacred Sanctuary-6
+Sanctuary-6(3)
+Sculpted Aegis-6
+Serraco-6
+Sporadic Nado-6(6)
+Steadfast Assailant-6
+Stinger-6(4)
+Stoneheart-6
+Subterran Horror-6(2)
+Swift Hellion-6
+Tabitha-6
+Terrogor-4
+Tiamat the Destroyer-6
+Tiamat-6(3)
+Tikal-6(2)
+Typhon Vex-6
+Valencio-6
+Vigil-6(4)
+Vigilant Racer-6(2)
+Vyander-6
+Windreaver-6(8)
+Xillafang-6(3)
+Yurich-6

@@ -1,0 +1,142 @@
+Abhorrent Recluse-6
+Absorption Shield-6
+Aggeroth Chaos-6
+Aggeroth-6
+Alaric-6
+Arch Nova Alpha-6
+Ascaris-4
+Ayrkrane Syn-6
+Ayrkrane-6
+Bane-6(2)
+Banshee-3
+Barracus-6
+Baughe-6(3)
+Beam Gate-3
+Beholder-6
+Benediction-6(3)
+Blight Crusher-6(3)
+Blisandro-6
+Blitz-4
+Bolt Crag-6
+Brood Mother-6
+Brood Walker-4(2)
+Brutal Beholder-6
+Bulldozer-6
+Burrower-6(5)
+Carbine-4
+Chevalier-6
+Constantine-6
+Contaminant Purifier-6
+Contaminant Scour-6(2)
+Cyrus-4
+Daemon-6(10)
+Deathsteel Falcion-6(2)
+Demi Constrictor-6
+Demon of Embers-6
+Deranged Malgoth-6
+Draconian Queen-6
+Dracorex-6
+Dreadship-6
+Dreamreaper-6
+Dreamweaver-6
+Empress-6
+Enclave Remnant-4
+Enfeebler-3
+Entrails Bog-6
+Extinguisher-6(3)
+Ezamit Serene-6
+Falcion-6(2)
+Fortified Cannons-4
+Fusion Plant-6
+Genetics Pit-6(8)
+Ghoulish Specter-6
+Glaive-4
+Gluttonous Fiend-6
+Gorrus-6(3)
+Grizrael-6
+Hades Enraged-6
+Halcyon-6
+Halesurge-6(4)
+Havenship-3
+Havoc-6
+Hephatat-6
+Honorable Samurai-6
+Hydra-4
+Indebted Veteran-4(16)
+Insanitius-6
+Jyackavor-6(2)
+Knight-4(2)
+Krellus-6
+Lamprey Nest-6
+Longshot Deadeye-6
+Lowbrow-6(2)
+Lucidier-6
+Lummox-4(2)
+Lurker Beast-6(4)
+Lurker Behemoth-6
+Maion-4
+Malgoth-6
+Malika-4
+Malort-6
+Marshall-6(3)
+Mawcor-6(2)
+Mawgore-6
+Meld-6(2)
+Missile Silo-6
+Moloch-4(2)
+Mongarus-6
+Necropocalypse-6
+Neo Excavator-6(5)
+Nexor-6
+Nexusis-6
+Nexusisite-6(2)
+Nightlurker-6
+Noble Defiance-6
+Noxious Tank-6
+Octane-6
+Pathrazer-4(5)
+Petrisis-6
+Pylon-3
+Radar Sentry-6
+Retriever-6(2)
+Sacred Equalizer-6
+Sacred Sanctuary-6
+Sage Ascendant-6
+Salvage Stockpile-1
+Sanctuary-6(3)
+Scarab-4
+Scorched Hellwing-6
+Serak-6
+Sinew Feeder-6(2)
+Skulker-6(2)
+Smog Tank-6(4)
+Spectre-4
+Spiteful Raptor-6
+Sporadic Nado-6
+Spore Pod-3
+Styxelt-6
+Subterran Horror-6(2)
+Sultan-6
+Support Fleet-6
+Tartarus Brood-6
+Tazerious-6
+Tempest Citadel-6(2)
+Terminator-4(4)
+Terrogor-4
+Tikal-6(2)
+Typhon Vex-6
+Unholy Daemon-6
+Vegna-6
+Veiled Defiler-6
+Vigil-6(8)
+Vigilant Racer-6
+Virtue-6(4)
+Vyander-6
+Warp Alchemist-6
+Withersnare-6(2)
+Xeno Mothership-6(4)
+Xeno Suzerain-6
+Xillafang-6(5)
+Yurich-6
+Zephyr Superior-6(2)
+Zodiac Harbinger-6(3)

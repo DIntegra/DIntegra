@@ -1,0 +1,15 @@
+C:\Source\DIntegra\TU\Data\FictiveLauncher\bin\Debug\FictiveLauncher.exe
+C:\Source\DIntegra\TU\Data\FictiveLauncher\bin\Debug\FictiveLauncher.pdb
+C:\Source\DIntegra\TU\Data\FictiveLauncher\bin\Debug\DIntegra.TU.Forms.dll
+C:\Source\DIntegra\TU\Data\FictiveLauncher\bin\Debug\DIntegra.TU.Data.dll
+C:\Source\DIntegra\TU\Data\FictiveLauncher\bin\Debug\DIntegra.TU.Forms.pdb
+C:\Source\DIntegra\TU\Data\FictiveLauncher\bin\Debug\DIntegra.TU.Data.pdb
+C:\Source\DIntegra\TU\Data\FictiveLauncher\obj\x86\Debug\FictiveLauncher.csprojResolveAssemblyReference.cache
+C:\Source\DIntegra\TU\Data\FictiveLauncher\obj\x86\Debug\FictiveLauncher.Form1.resources
+C:\Source\DIntegra\TU\Data\FictiveLauncher\obj\x86\Debug\FictiveLauncher.Properties.Resources.resources
+C:\Source\DIntegra\TU\Data\FictiveLauncher\obj\x86\Debug\FictiveLauncher.csproj.GenerateResource.Cache
+C:\Source\DIntegra\TU\Data\FictiveLauncher\obj\x86\Debug\FictiveLauncher.exe
+C:\Source\DIntegra\TU\Data\FictiveLauncher\obj\x86\Debug\FictiveLauncher.pdb
+C:\Source\DIntegra\TU\Data\FictiveLauncher\bin\Debug\FictiveLauncher.exe.config
+C:\Source\DIntegra\TU\Data\FictiveLauncher\bin\Debug\DIntegra.TU.Engine.dll
+C:\Source\DIntegra\TU\Data\FictiveLauncher\bin\Debug\DIntegra.TU.Engine.pdb
