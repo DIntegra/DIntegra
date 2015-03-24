@@ -33,6 +33,21 @@ namespace DIntegra.TU.Forms
             }
         }
 
+        private void UpdateProfileList()
+        {
+            this.ddlCredentials.Items.Clear();
+
+            var creds = this.Engine.CredentialManager.GetAllCredentials();
+
+            this.ddlCredentials.Items.Add("");
+
+            foreach (Credentials cred in creds)
+            {
+                this.ddlCredentials.Items.Add(cred);
+            }
+        }
+
+
         public FMainForm()
         {
             InitializeComponent();            
@@ -54,22 +69,13 @@ namespace DIntegra.TU.Forms
 
             if (dlg == System.Windows.Forms.DialogResult.OK)
             {
-                
+                this.UpdateProfileList();
             }
         }
 
         private void FMainForm_Load(object sender, EventArgs e)
         {
-            this.ddlCredentials.Items.Clear();
-
-            var creds = this.Engine.CredentialManager.GetAllCredentials();
-
-            this.ddlCredentials.Items.Add("");
-
-            foreach (Credentials cred in creds)
-            {
-                this.ddlCredentials.Items.Add(cred);
-            }
+            UpdateProfileList();
         }
 
         private void ddlCredentials_SelectedIndexChanged(object sender, EventArgs e)

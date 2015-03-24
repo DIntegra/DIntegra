@@ -14,3 +14,6 @@ C:\Source\DIntegra\TU\Data\FictiveLauncher\obj\x86\Release\FictiveLauncher.cspro
 C:\Source\DIntegra\TU\Data\FictiveLauncher\obj\x86\Release\FictiveLauncher.exe
 C:\Source\DIntegra\TU\Data\FictiveLauncher\obj\x86\Release\FictiveLauncher.pdb
 C:\Source\DIntegra\TU\Data\FictiveLauncher\bin\Release\Ionic.Zip.dll
+G:\20 GIT\DIntegra\TU\Data\FictiveLauncher\bin\Release\FictiveLauncher.exe.config
+G:\20 GIT\DIntegra\TU\Data\FictiveLauncher\obj\x86\Release\FictiveLauncher.exe
+G:\20 GIT\DIntegra\TU\Data\FictiveLauncher\obj\x86\Release\FictiveLauncher.pdb

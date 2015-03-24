@@ -25,7 +25,10 @@ namespace DIntegra.TU
 
             if (!fileInfo.Exists)
             {
-                fileInfo.Create();
+                using(FileStream fStream = fileInfo.Create())
+                {
+                    fStream.Close();
+                }
             }
         }
     }
