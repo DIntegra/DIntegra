@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegraLauncher", "IntegraLauncher\IntegraLauncher.csproj", "{D8B804FA-6EAA-438C-A335-E97ED3CC4350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms", "Forms\Forms.csproj", "{59DAB68C-F399-425F-9F65-3830DCBEEDDD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{6B3FBEA0-1302-4187-A2FB-ACE872EA46C8}"
+	ProjectSection(SolutionItems) = preProject
+		Arena.GetAllTarget.txt = Arena.GetAllTarget.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequestsHelper", "RequestsHelper\RequestsHelper.csproj", "{5F996302-83B5-40FF-9C49-3DECC1874112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8B804FA-6EAA-438C-A335-E97ED3CC4350}.Debug|x86.ActiveCfg = Debug|x86
+		{D8B804FA-6EAA-438C-A335-E97ED3CC4350}.Debug|x86.Build.0 = Debug|x86
+		{D8B804FA-6EAA-438C-A335-E97ED3CC4350}.Release|x86.ActiveCfg = Release|x86
+		{D8B804FA-6EAA-438C-A335-E97ED3CC4350}.Release|x86.Build.0 = Release|x86
+		{59DAB68C-F399-425F-9F65-3830DCBEEDDD}.Debug|x86.ActiveCfg = Debug|x86
+		{59DAB68C-F399-425F-9F65-3830DCBEEDDD}.Debug|x86.Build.0 = Debug|x86
+		{59DAB68C-F399-425F-9F65-3830DCBEEDDD}.Release|x86.ActiveCfg = Release|x86
+		{59DAB68C-F399-425F-9F65-3830DCBEEDDD}.Release|x86.Build.0 = Release|x86
+		{5F996302-83B5-40FF-9C49-3DECC1874112}.Debug|x86.ActiveCfg = Debug|x86
+		{5F996302-83B5-40FF-9C49-3DECC1874112}.Debug|x86.Build.0 = Debug|x86
+		{5F996302-83B5-40FF-9C49-3DECC1874112}.Release|x86.ActiveCfg = Release|x86
+		{5F996302-83B5-40FF-9C49-3DECC1874112}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

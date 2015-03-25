@@ -157,7 +157,7 @@ namespace DIntegra.TU.Forms
             this.progressBar1.Update();
 
             this.button1.Enabled = true;
-            this.ParentForm.ShowNotification("Обновление данных о запасах игроков завершено", ToolTipIcon.Warning);
+            this.ParentForm.ShowNotification("Обновление данных о деках игроков завершено", ToolTipIcon.Warning);
         }
 
         private void button1_Click(object sender, EventArgs e)

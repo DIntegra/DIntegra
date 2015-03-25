@@ -4,7 +4,6 @@ C:\Source\DIntegra\TU\Data\Forms\bin\Release\DIntegra.TU.Data.dll
 C:\Source\DIntegra\TU\Data\Forms\bin\Release\DIntegra.TU.Engine.dll
 C:\Source\DIntegra\TU\Data\Forms\bin\Release\DIntegra.TU.Data.pdb
 C:\Source\DIntegra\TU\Data\Forms\bin\Release\DIntegra.TU.Engine.pdb
-C:\Source\DIntegra\TU\Data\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
 C:\Source\DIntegra\TU\Data\Forms\obj\Release\DIntegra.TU.Forms.FChestsDownloader.resources
 C:\Source\DIntegra\TU\Data\Forms\obj\Release\DIntegra.TU.Forms.FCreateProfile.resources
 C:\Source\DIntegra\TU\Data\Forms\obj\Release\DIntegra.TU.Forms.FDeckUpdater.resources

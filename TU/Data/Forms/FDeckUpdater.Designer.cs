@@ -62,16 +62,16 @@ namespace DIntegra.TU.Forms
             // listBoxLog
             // 
             this.listBoxLog.FormattingEnabled = true;
-            this.listBoxLog.Location = new System.Drawing.Point(12, 41);
+            this.listBoxLog.Location = new System.Drawing.Point(12, 43);
             this.listBoxLog.Name = "listBoxLog";
-            this.listBoxLog.Size = new System.Drawing.Size(521, 147);
+            this.listBoxLog.Size = new System.Drawing.Size(521, 238);
             this.listBoxLog.TabIndex = 8;
             // 
             // FDeckUpdater
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(545, 202);
+            this.ClientSize = new System.Drawing.Size(542, 293);
             this.Controls.Add(this.listBoxLog);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.progressBar1);

@@ -48,6 +48,14 @@ namespace DIntegra.TU.Forms
         {
             try
             {
+                ChestsDownloaderSettings settings = e.Argument as ChestsDownloaderSettings;
+
+                if (settings == null)
+                {
+                    settings = new ChestsDownloaderSettings();
+                }
+
+
                 int progress = 0;
                 this.backgroundWorker1.ReportProgress(progress, "Приступаем к обработке Дек");
 
@@ -84,33 +92,48 @@ namespace DIntegra.TU.Forms
                             {
                                 foreach (String card in chest.IOwnerCards)
                                 {
-                                    f.WriteLine(card);
+                                    if (settings.CheckFilterCard(card))
+                                    {
+                                        f.WriteLine(card);
+                                    }
                                 }
                             }
 
-                            using (var f = File.CreateText(maxedCardsCardsFolder + "\\" + fname + ".txt"))
+                            if (settings.GetAllMaxedCollection)
                             {
-                                foreach (String card in chest.IOwnerCardsMaxed)
+                                using (var f = File.CreateText(maxedCardsCardsFolder + "\\" + fname + ".txt"))
                                 {
-                                    f.WriteLine(card);
+                                    foreach (String card in chest.IOwnerCardsMaxed)
+                                    {
+                                        f.WriteLine(card);
+                                    }
                                 }
                             }
 
-                            using (var f = File.CreateText(allFusesCardsFolder + "\\" + fname + ".txt"))
+
+                            if (settings.GetAllFusesCollection)
                             {
-                                foreach (String card in chest.IPossibleCard)
+                                using (var f = File.CreateText(allFusesCardsFolder + "\\" + fname + ".txt"))
                                 {
-                                    f.WriteLine(card);
+                                    foreach (String card in chest.IPossibleCard)
+                                    {
+                                        f.WriteLine(card);
+                                    }
                                 }
                             }
                             tries = 0;
 
                             progress = progress + step;
                         }
+                        catch (IndexOutOfRangeException ex)
+                        {
+                            this.backgroundWorker1.ReportProgress(progress, "Произошла ошибка: " + ex.ToString());
+                            this.backgroundWorker1.ReportProgress(progress, "Осталось попыток: " + tries);
+                        }
                         catch (Exception ex)
                         {
                             this.backgroundWorker1.ReportProgress(progress, "Произошла ошибка: " + ex.ToString());
-                            this.backgroundWorker1.ReportProgress(progress, "Осталось попыток: "+ tries);
+                            this.backgroundWorker1.ReportProgress(progress, "Осталось попыток: " + tries);
                         }
                     }
 
@@ -161,7 +184,43 @@ namespace DIntegra.TU.Forms
             this.buttonDownload.Enabled = false;
             this.progressBar.Value = 0;
 
-            this.backgroundWorker1.RunWorkerAsync();
+            ChestsDownloaderSettings settings = new ChestsDownloaderSettings();
+
+            settings.GetAllFusesCollection = this.cbAllFuses.Checked;
+            settings.GetAllMaxedCollection = this.cbAllMaxed.Checked;
+            settings.GetCurrentCollection = this.cbCurrCards.Checked;
+
+            if (this.cbLevel1.Checked)
+            {
+                settings.AddBlocklevel(1);
+            }
+
+            if (this.cbLevel2.Checked)
+            {
+                settings.AddBlocklevel(2);
+            }
+
+            if (this.cbLevel3.Checked)
+            {
+                settings.AddBlocklevel(3);
+            }
+
+            if (this.cbLevel4.Checked)
+            {
+                settings.AddBlocklevel(4);
+            }
+
+            if (this.cbLevel5.Checked)
+            {
+                settings.AddBlocklevel(5);
+            }
+
+            if (this.cbLevel6.Checked)
+            {
+                settings.AddBlocklevel(6);
+            }
+
+            this.backgroundWorker1.RunWorkerAsync(settings);
         }
 
         private void FChestsDownloader_FormClosing(object sender, FormClosingEventArgs e)

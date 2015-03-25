@@ -1,0 +1,22 @@
+D:\02 GOOGLE\tyrant\TyrantStation\Forms\bin\Debug\DI.TyrantStation.Forms.dll
+D:\02 GOOGLE\tyrant\TyrantStation\Forms\bin\Debug\DI.TyrantStation.Forms.pdb
+D:\02 GOOGLE\tyrant\TyrantStation\Forms\bin\Debug\Newtonsoft.Json.dll
+D:\02 GOOGLE\tyrant\TyrantStation\Forms\bin\Debug\RequestsHelper.dll
+D:\02 GOOGLE\tyrant\TyrantStation\Forms\bin\Debug\RequestsHelper.pdb
+D:\02 GOOGLE\tyrant\TyrantStation\Forms\obj\x86\Debug\Forms.csprojResolveAssemblyReference.cache
+D:\02 GOOGLE\tyrant\TyrantStation\Forms\obj\x86\Debug\DI.TyrantStation.Forms.Arena.resources
+D:\02 GOOGLE\tyrant\TyrantStation\Forms\obj\x86\Debug\DI.TyrantStation.Forms.Properties.Resources.resources
+D:\02 GOOGLE\tyrant\TyrantStation\Forms\obj\x86\Debug\Forms.csproj.GenerateResource.Cache
+D:\02 GOOGLE\tyrant\TyrantStation\Forms\obj\x86\Debug\DI.TyrantStation.Forms.dll
+D:\02 GOOGLE\tyrant\TyrantStation\Forms\obj\x86\Debug\DI.TyrantStation.Forms.pdb
+C:\Source\DIntegra\TyrantStation\Forms\bin\Debug\DI.TyrantStation.Forms.dll
+C:\Source\DIntegra\TyrantStation\Forms\bin\Debug\DI.TyrantStation.Forms.pdb
+C:\Source\DIntegra\TyrantStation\Forms\bin\Debug\Newtonsoft.Json.dll
+C:\Source\DIntegra\TyrantStation\Forms\bin\Debug\RequestsHelper.dll
+C:\Source\DIntegra\TyrantStation\Forms\bin\Debug\RequestsHelper.pdb
+C:\Source\DIntegra\TyrantStation\Forms\obj\x86\Debug\Forms.csprojResolveAssemblyReference.cache
+C:\Source\DIntegra\TyrantStation\Forms\obj\x86\Debug\DI.TyrantStation.Forms.Arena.resources
+C:\Source\DIntegra\TyrantStation\Forms\obj\x86\Debug\DI.TyrantStation.Forms.Properties.Resources.resources
+C:\Source\DIntegra\TyrantStation\Forms\obj\x86\Debug\Forms.csproj.GenerateResource.Cache
+C:\Source\DIntegra\TyrantStation\Forms\obj\x86\Debug\DI.TyrantStation.Forms.dll
+C:\Source\DIntegra\TyrantStation\Forms\obj\x86\Debug\DI.TyrantStation.Forms.pdb

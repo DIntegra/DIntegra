@@ -1,0 +1,4 @@
+D:\02 GOOGLE\tyrant\TyrantStation\RequestsHelper\bin\Debug\RequestsHelper.dll
+D:\02 GOOGLE\tyrant\TyrantStation\RequestsHelper\bin\Debug\RequestsHelper.pdb
+D:\02 GOOGLE\tyrant\TyrantStation\RequestsHelper\obj\x86\Debug\RequestsHelper.dll
+D:\02 GOOGLE\tyrant\TyrantStation\RequestsHelper\obj\x86\Debug\RequestsHelper.pdb

@@ -1,0 +1,23 @@
+POST http://mobile.tyrantonline.com/api.php?message=getHuntingTargets&user_id=3840857 HTTP/1.1
+Host: mobile.tyrantonline.com
+Connection: keep-alive
+Content-Length: 331
+content-type: application/x-www-form-urlencoded
+DNT: 1
+Referer: http://chat.kongregate.com/gamez/0020/8033/live/tymob-v1_30_3.unity3d?kongregate_game_version=1409856800
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36
+Accept-Encoding: gzip,deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+
+password=41a4f7c1f497f257fed1e4dbe16ab887&client_version=36&device_type=Intel(R)+Core(TM)+i7+CPU+K+875+%40+2.93GHz+(4056+MB)&os_version=Windows+7+Service+Pack+1+(6.1.7601)+64bit&platform=Web&kong_id=15072335&kong_token=a2f15819c315f61c58aa3e42328684610352af2cf536a687e074bd4266ec04d2&kong_name=DezIntegra&data_usage=2751&dummy=data
+
+POST /api.php?message=getHuntingTargets&user_id=3840857 HTTP/1.1
+Host: mobile.tyrantonline.com
+Connection: keep-alive
+Content-Length: 331
+content-type: application/x-www-form-urlencoded
+DNT: 1
+Referer: http://chat.kongregate.com/gamez/0020/8033/live/tymob-v1_30_3.unity3d?kongregate_game_version=1409856800
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36
+Accept-Encoding: gzip,deflate
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4

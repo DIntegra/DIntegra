@@ -1,0 +1,25 @@
+D:\02 GOOGLE\tyrant\TyrantStation\IntegraLauncher\obj\x86\Debug\IntegraLauncher.csprojResolveAssemblyReference.cache
+D:\02 GOOGLE\tyrant\TyrantStation\IntegraLauncher\obj\x86\Debug\DI.TyrantStation.IntegraLauncher.IntegraLauncher.resources
+D:\02 GOOGLE\tyrant\TyrantStation\IntegraLauncher\obj\x86\Debug\DI.TyrantStation.IntegraLauncher.Properties.Resources.resources
+D:\02 GOOGLE\tyrant\TyrantStation\IntegraLauncher\obj\x86\Debug\IntegraLauncher.csproj.GenerateResource.Cache
+D:\02 GOOGLE\tyrant\TyrantStation\IntegraLauncher\bin\Debug\IntegraLauncher.exe
+D:\02 GOOGLE\tyrant\TyrantStation\IntegraLauncher\bin\Debug\IntegraLauncher.pdb
+D:\02 GOOGLE\tyrant\TyrantStation\IntegraLauncher\bin\Debug\DI.TyrantStation.Forms.dll
+D:\02 GOOGLE\tyrant\TyrantStation\IntegraLauncher\bin\Debug\RequestsHelper.dll
+D:\02 GOOGLE\tyrant\TyrantStation\IntegraLauncher\bin\Debug\DI.TyrantStation.Forms.pdb
+D:\02 GOOGLE\tyrant\TyrantStation\IntegraLauncher\bin\Debug\RequestsHelper.pdb
+D:\02 GOOGLE\tyrant\TyrantStation\IntegraLauncher\obj\x86\Debug\IntegraLauncher.exe
+D:\02 GOOGLE\tyrant\TyrantStation\IntegraLauncher\obj\x86\Debug\IntegraLauncher.pdb
+C:\Source\DIntegra\TyrantStation\IntegraLauncher\obj\x86\Debug\IntegraLauncher.exe
+C:\Source\DIntegra\TyrantStation\IntegraLauncher\obj\x86\Debug\IntegraLauncher.pdb
+C:\Source\DIntegra\TyrantStation\IntegraLauncher\bin\Debug\IntegraLauncher.exe
+C:\Source\DIntegra\TyrantStation\IntegraLauncher\bin\Debug\IntegraLauncher.pdb
+C:\Source\DIntegra\TyrantStation\IntegraLauncher\bin\Debug\DI.TyrantStation.Forms.dll
+C:\Source\DIntegra\TyrantStation\IntegraLauncher\bin\Debug\RequestsHelper.dll
+C:\Source\DIntegra\TyrantStation\IntegraLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Source\DIntegra\TyrantStation\IntegraLauncher\bin\Debug\DI.TyrantStation.Forms.pdb
+C:\Source\DIntegra\TyrantStation\IntegraLauncher\bin\Debug\RequestsHelper.pdb
+C:\Source\DIntegra\TyrantStation\IntegraLauncher\obj\x86\Debug\IntegraLauncher.csprojResolveAssemblyReference.cache
+C:\Source\DIntegra\TyrantStation\IntegraLauncher\obj\x86\Debug\DI.TyrantStation.IntegraLauncher.IntegraLauncher.resources
+C:\Source\DIntegra\TyrantStation\IntegraLauncher\obj\x86\Debug\DI.TyrantStation.IntegraLauncher.Properties.Resources.resources
+C:\Source\DIntegra\TyrantStation\IntegraLauncher\obj\x86\Debug\IntegraLauncher.csproj.GenerateResource.Cache
