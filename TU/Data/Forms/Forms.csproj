@@ -48,6 +48,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\ChestsDownloaderSettings.cs" />
+    <Compile Include="FAccManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAccManager.Designer.cs">
+      <DependentUpon>FAccManager.cs</DependentUpon>
+    </Compile>
     <Compile Include="FChestsDownloader.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -81,6 +87,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="FAccManager.resx">
+      <DependentUpon>FAccManager.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FChestsDownloader.resx">
       <DependentUpon>FChestsDownloader.cs</DependentUpon>
     </EmbeddedResource>

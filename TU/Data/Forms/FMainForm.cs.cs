@@ -12,6 +12,27 @@ namespace DIntegra.TU.Forms
     {
         private Engine _engine = null;
         private Credentials _currentcred = null;
+        private FAccManager _accManagerForm = null;
+
+        internal FAccManager FAccManager
+        {
+            get
+            {
+                if (this._accManagerForm == null)
+                {
+                    this._accManagerForm = new FAccManager(this);
+                    this._accManagerForm.MdiParent = this;
+                    this._accManagerForm.FormClosed += new FormClosedEventHandler(_accManagerForm_FormClosed);
+                }
+
+                return this._accManagerForm;
+            }
+        }
+
+        void _accManagerForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            this._accManagerForm = null;
+        }
 
         internal Credentials CurrentProfile
         {
@@ -33,7 +54,7 @@ namespace DIntegra.TU.Forms
             }
         }
 
-        private void UpdateProfileList()
+        public void UpdateProfileList()
         {
             this.ddlCredentials.Items.Clear();
 
@@ -45,6 +66,8 @@ namespace DIntegra.TU.Forms
             {
                 this.ddlCredentials.Items.Add(cred);
             }
+
+            
         }
 
 
@@ -63,14 +86,7 @@ namespace DIntegra.TU.Forms
 
         private void toolStripButton1_Click(object sender, EventArgs e)
         {
-            FCreateProfile profileForm = new FCreateProfile();
-
-            DialogResult dlg = profileForm.ShowDialog();
-
-            if (dlg == System.Windows.Forms.DialogResult.OK)
-            {
-                this.UpdateProfileList();
-            }
+            this.FAccManager.Show();          
         }
 
         private void FMainForm_Load(object sender, EventArgs e)

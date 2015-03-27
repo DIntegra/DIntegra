@@ -20,6 +20,8 @@ namespace DIntegra.TU
             this.StoreCredentials(nCred);
         }
 
+        
+
         public List<Credentials> GetAllCredentials()
         {
             List<Credentials> creds = new List<Credentials>();
@@ -85,6 +87,23 @@ namespace DIntegra.TU
                 {
                     nCredColl.Add(cred);
                 }                
+            }
+
+            this.SaveCredentials(nCredColl);
+        }
+
+        public void RemoveCredentialsRecord(Credentials cred)
+        {
+            var existed = this.GetAllCredentials();
+
+            List<Credentials> nCredColl = new List<Credentials>();
+
+            foreach (Credentials exCred in existed)
+            {
+                if (cred.Password == exCred.Password)
+                    continue;
+
+                nCredColl.Add(exCred);
             }
 
             this.SaveCredentials(nCredColl);

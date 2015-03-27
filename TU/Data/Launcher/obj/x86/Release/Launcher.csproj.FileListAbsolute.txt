@@ -9,3 +9,11 @@ C:\Source\DIntegra\TU\Data\Launcher\obj\x86\Release\Launcher.Properties.Resource
 C:\Source\DIntegra\TU\Data\Launcher\obj\x86\Release\Launcher.csproj.GenerateResource.Cache
 C:\Source\DIntegra\TU\Data\Launcher\obj\x86\Release\Launcher.exe
 C:\Source\DIntegra\TU\Data\Launcher\obj\x86\Release\Launcher.pdb
+G:\20 GIT\TyrantStation\TU\Data\Launcher\bin\Release\Launcher.exe.config
+G:\20 GIT\TyrantStation\TU\Data\Launcher\bin\Release\Launcher.exe
+G:\20 GIT\TyrantStation\TU\Data\Launcher\bin\Release\Launcher.pdb
+G:\20 GIT\TyrantStation\TU\Data\Launcher\obj\x86\Release\Launcher.FLauncher.resources
+G:\20 GIT\TyrantStation\TU\Data\Launcher\obj\x86\Release\Launcher.Properties.Resources.resources
+G:\20 GIT\TyrantStation\TU\Data\Launcher\obj\x86\Release\Launcher.csproj.GenerateResource.Cache
+G:\20 GIT\TyrantStation\TU\Data\Launcher\obj\x86\Release\Launcher.exe
+G:\20 GIT\TyrantStation\TU\Data\Launcher\obj\x86\Release\Launcher.pdb

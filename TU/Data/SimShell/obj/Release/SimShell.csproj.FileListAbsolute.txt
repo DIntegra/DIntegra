@@ -1,0 +1,4 @@
+G:\20 GIT\TyrantStation\TU\Data\SimShell\bin\Release\DIntegra.TU.SimShell.dll
+G:\20 GIT\TyrantStation\TU\Data\SimShell\bin\Release\DIntegra.TU.SimShell.pdb
+G:\20 GIT\TyrantStation\TU\Data\SimShell\obj\Release\DIntegra.TU.SimShell.dll
+G:\20 GIT\TyrantStation\TU\Data\SimShell\obj\Release\DIntegra.TU.SimShell.pdb

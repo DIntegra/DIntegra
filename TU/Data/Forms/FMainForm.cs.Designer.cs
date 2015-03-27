@@ -35,14 +35,14 @@
             this.запасыToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.декиToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.системныеФайлыToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
+            this.обновитьSimToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.toolStripLabel1 = new System.Windows.Forms.ToolStripLabel();
             this.ddlCredentials = new System.Windows.Forms.ToolStripComboBox();
-            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButtonManageAccaunts = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.notifyIcon = new System.Windows.Forms.NotifyIcon(this.components);
-            this.обновитьSimToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.mainMenu.SuspendLayout();
             this.toolStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -54,7 +54,7 @@
             this.скачатьToolStripMenuItem});
             this.mainMenu.Location = new System.Drawing.Point(0, 0);
             this.mainMenu.Name = "mainMenu";
-            this.mainMenu.Size = new System.Drawing.Size(1014, 24);
+            this.mainMenu.Size = new System.Drawing.Size(1166, 24);
             this.mainMenu.TabIndex = 1;
             this.mainMenu.Text = "menuStrip1";
             // 
@@ -67,46 +67,58 @@
             this.toolStripSeparator2,
             this.обновитьSimToolStripMenuItem});
             this.скачатьToolStripMenuItem.Name = "скачатьToolStripMenuItem";
-            this.скачатьToolStripMenuItem.Size = new System.Drawing.Size(62, 20);
+            this.скачатьToolStripMenuItem.Size = new System.Drawing.Size(63, 20);
             this.скачатьToolStripMenuItem.Text = "Скачать";
             // 
             // запасыToolStripMenuItem
             // 
             this.запасыToolStripMenuItem.Name = "запасыToolStripMenuItem";
-            this.запасыToolStripMenuItem.Size = new System.Drawing.Size(167, 22);
+            this.запасыToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
             this.запасыToolStripMenuItem.Text = "Запасы";
             this.запасыToolStripMenuItem.Click += new System.EventHandler(this.запасыToolStripMenuItem_Click);
             // 
             // декиToolStripMenuItem
             // 
             this.декиToolStripMenuItem.Name = "декиToolStripMenuItem";
-            this.декиToolStripMenuItem.Size = new System.Drawing.Size(167, 22);
+            this.декиToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
             this.декиToolStripMenuItem.Text = "Деки";
             this.декиToolStripMenuItem.Click += new System.EventHandler(this.декиToolStripMenuItem_Click);
             // 
             // системныеФайлыToolStripMenuItem
             // 
             this.системныеФайлыToolStripMenuItem.Name = "системныеФайлыToolStripMenuItem";
-            this.системныеФайлыToolStripMenuItem.Size = new System.Drawing.Size(167, 22);
+            this.системныеФайлыToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
             this.системныеФайлыToolStripMenuItem.Text = "Системные файлы";
+            // 
+            // toolStripSeparator2
+            // 
+            this.toolStripSeparator2.Name = "toolStripSeparator2";
+            this.toolStripSeparator2.Size = new System.Drawing.Size(175, 6);
+            // 
+            // обновитьSimToolStripMenuItem
+            // 
+            this.обновитьSimToolStripMenuItem.Name = "обновитьSimToolStripMenuItem";
+            this.обновитьSimToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.обновитьSimToolStripMenuItem.Text = "Обновить Sim";
+            this.обновитьSimToolStripMenuItem.Click += new System.EventHandler(this.обновитьSimToolStripMenuItem_Click);
             // 
             // toolStrip1
             // 
             this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripLabel1,
             this.ddlCredentials,
-            this.toolStripButton1,
+            this.toolStripButtonManageAccaunts,
             this.toolStripSeparator1});
             this.toolStrip1.Location = new System.Drawing.Point(0, 24);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(1014, 25);
+            this.toolStrip1.Size = new System.Drawing.Size(1166, 25);
             this.toolStrip1.TabIndex = 2;
             this.toolStrip1.Text = "toolStrip1";
             // 
             // toolStripLabel1
             // 
             this.toolStripLabel1.Name = "toolStripLabel1";
-            this.toolStripLabel1.Size = new System.Drawing.Size(141, 22);
+            this.toolStripLabel1.Size = new System.Drawing.Size(154, 22);
             this.toolStripLabel1.Text = "Текущий профиль игрока:";
             // 
             // ddlCredentials
@@ -115,15 +127,15 @@
             this.ddlCredentials.Size = new System.Drawing.Size(121, 25);
             this.ddlCredentials.SelectedIndexChanged += new System.EventHandler(this.ddlCredentials_SelectedIndexChanged);
             // 
-            // toolStripButton1
+            // toolStripButtonManageAccaunts
             // 
-            this.toolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
-            this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton1.Image")));
-            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.toolStripButton1.Name = "toolStripButton1";
-            this.toolStripButton1.Size = new System.Drawing.Size(89, 22);
-            this.toolStripButton1.Text = "Создать новый";
-            this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
+            this.toolStripButtonManageAccaunts.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
+            this.toolStripButtonManageAccaunts.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButtonManageAccaunts.Image")));
+            this.toolStripButtonManageAccaunts.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButtonManageAccaunts.Name = "toolStripButtonManageAccaunts";
+            this.toolStripButtonManageAccaunts.Size = new System.Drawing.Size(192, 22);
+            this.toolStripButtonManageAccaunts.Text = "Управление учетными записями";
+            this.toolStripButtonManageAccaunts.Click += new System.EventHandler(this.toolStripButton1_Click);
             // 
             // toolStripSeparator1
             // 
@@ -137,23 +149,11 @@
             this.notifyIcon.Text = "TU Integra Station";
             this.notifyIcon.Visible = true;
             // 
-            // обновитьSimToolStripMenuItem
-            // 
-            this.обновитьSimToolStripMenuItem.Name = "обновитьSimToolStripMenuItem";
-            this.обновитьSimToolStripMenuItem.Size = new System.Drawing.Size(167, 22);
-            this.обновитьSimToolStripMenuItem.Text = "Обновить Sim";
-            this.обновитьSimToolStripMenuItem.Click += new System.EventHandler(this.обновитьSimToolStripMenuItem_Click);
-            // 
-            // toolStripSeparator2
-            // 
-            this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(164, 6);
-            // 
             // FMainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1014, 505);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(96F, 96F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
+            this.ClientSize = new System.Drawing.Size(1166, 642);
             this.Controls.Add(this.toolStrip1);
             this.Controls.Add(this.mainMenu);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
@@ -181,7 +181,7 @@
         private System.Windows.Forms.ToolStrip toolStrip1;
         private System.Windows.Forms.ToolStripLabel toolStripLabel1;
         private System.Windows.Forms.ToolStripComboBox ddlCredentials;
-        private System.Windows.Forms.ToolStripButton toolStripButton1;
+        private System.Windows.Forms.ToolStripButton toolStripButtonManageAccaunts;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
         private System.Windows.Forms.NotifyIcon notifyIcon;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator2;
