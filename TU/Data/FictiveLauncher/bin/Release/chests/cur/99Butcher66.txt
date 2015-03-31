@@ -1,0 +1,140 @@
+Aegis-1(2)
+Aegis-2
+Aggeroth Chaos-6
+Aggeroth-1(2)
+Alaric-3
+Anvil-1(2)
+Apex-1(3)
+Apex-2(2)
+Arch Nova Alpha-6
+Arch Nova Elite-6
+Ascaris-1
+Ascendant-1
+Astral Strafer-1(4)
+Auger Ream-6
+Ayrkrane-1(3)
+Bane of Triumph-1
+Bane of Truth-6
+Barracus-1
+Benediction-1(4)
+Blackrock-1
+Blitz-1
+Brood Mother-1
+Bulldozer-1(4)
+Burrower-1(5)
+Burrower-2
+Chevalier-1(2)
+Chiron-1
+Chronoshift-1(2)
+Coldheart-6
+Constantine-6
+Contaminant Purifier-6
+Contaminant Scour-1(2)
+Covert Jet-1
+Cyberpod-1
+Cyrus-1
+Daemon-1(2)
+Daemon-3
+Demi Constrictor-6
+Demon of Embers-1(3)
+Deserted Baughe-6
+Divinity-1(2)
+Dominator-1
+Draconian Queen-1
+Dracorex-1
+Dreadship-1(3)
+Dreamhaunter-6
+Dune Runner-6
+Elite Brigade-6
+Elite Soldier-1(2)
+Emerald Rider-1(2)
+Empress-6
+Enclave Remnant-1
+Equalizer-1(2)
+Eupnoi-1(2)
+Ezamit Serene-4
+Falcion-1(2)
+Fanatic-1(2)
+Fighter Jet-1(2)
+Gallant Knight-1
+Geist-1(2)
+Genetics Pit-1(3)
+Gilgamesh-1(2)
+Greatheart-4
+Guardian Gamut-6(2)
+Halcyon-1
+Havoc-1(2)
+Hephatat-1(3)
+Hexsin-1(3)
+Hydra-1
+Iron Maiden-1(5)
+Irrian-1(2)
+Jet-6
+Jilted Baughe-6
+Jyackavor-1
+Knight-1
+Krellus-1
+Lowbrow-1(2)
+Lucidier-1(6)
+Lurker Beast-1
+Lurker Beast-2
+Maion-2
+Malgoth-1(6)
+Malika-1
+Marshall-1(7)
+Meld-1(3)
+Messale-6
+Messiar-1(3)
+Missile Silo-1(2)
+Mongarus-6
+Neo Excavator-1(3)
+Nexor-6
+Nexusisite-1(4)
+Nightcrawler-1(2)
+Nimbus-1(4)
+Octane's Base-1
+Octane's Bastion-6
+Octane's Bulwark-6
+Octane-1
+Omega-1(2)
+Omenosis-1(2)
+Onyx-1(2)
+Pantheon Shard-1(2)
+Petrisis-1
+Primus-1
+Quake-1(2)
+Rampage-1
+Retriever-1(7)
+Sacred Sanctuary-6
+Samurai-6
+Sanctuary-1(2)
+Sculpted Aegis-6
+Sensor Driver-1(2)
+Serraco-1
+Sinew Feeder-1(4)
+Skulker-1(3)
+Sporadic Nado-1(6)
+Stealthy Niaq-1(4)
+Subterran Horror-1(4)
+Tabitha-6
+Tartarus Scion-1(2)
+Tazerious-6
+Terrogor-1
+The Adversary-6
+Tikal-1(2)
+Trench-1(2)
+Twinblade-1
+Typhon Vex-1
+Vigil-1(2)
+Vigilant Racer-1(4)
+Vyander-1
+Windreaver-1(5)
+Withersnare-6(2)
+Wraith-1(2)
+Xanadu-1(2)
+Xeno Mothership-1
+Xeno Suzerain-6
+Xillafang-1(2)
+Xillanail-6
+Yurich-1
+Zodiac Harbinger-6(3)

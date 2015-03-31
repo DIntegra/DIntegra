@@ -1,0 +1,139 @@
+Absorption Shield-6(3)
+Aggeroth-6(5)
+Alaric-6
+Apex-6(5)
+Arch Nova Alpha-6
+Arch Nova-6
+Arkadios-6
+Ascaris-4
+Ascendant-6(2)
+Astral Strider-6
+Auger Bore-6
+Auger-6(2)
+Ayrkrane-6
+Bane of Truth-6
+Barracus-6
+Baughe-6(2)
+Benediction-6(9)
+Blackrock-6(5)
+Blitz-4
+Brood Mother-6
+Brood Walker-4
+Bulldozer-6
+Burrower-6(4)
+Cannon Walker-4(2)
+Carbine-4
+Chevalier-6(3)
+Chiron-4
+Constantine-6
+Contaminant Purifier-6
+Contaminant Scour-6(6)
+Covert Jet-6
+Cyrus-4
+Daedalus-6
+Daemon-6(3)
+Deserted Baughe-6(2)
+Dire Retriever-6(2)
+Divinity-6
+Dominator-4(2)
+Dracorex-6
+Dreadship-6(3)
+Dreamhaunter-6
+Dune Runner-6
+Elite Soldier-6
+Emerging Basilisk-6(2)
+Empress-6
+Equalizer-6(3)
+Eupnoi-6(2)
+Extinguisher of Light-6
+Extinguisher-6(2)
+Ezamit Serene-6
+Ezamit-6
+Falcion-6(5)
+Fanatic-6(3)
+Fenflame-6
+Fighter Jet-6(2)
+Fortified Cannons-4
+Foul Recluse-6
+Gallant Knight-6
+Geist-6(2)
+Genetics Pit-6(4)
+Gilgamesh-6(2)
+Gladius-6
+Glaive-4(3)
+Halcyon-6
+Havoc-6(2)
+Hexsin-6(3)
+Inferno Demon-6
+Iron Maiden-6(2)
+Irrian-6(2)
+Jet-6
+Jyackavor-6
+Keres-6
+Knight-4(3)
+Krellus-6
+Kylen-6
+Lord Silus-6
+Lowbrow-6(2)
+Lucidier-6(4)
+Lurker Beast-6(5)
+Maion-4
+Malgoth-6(5)
+Malicious Eupnoi-6
+Malika-4
+Malort-6
+Marshall-6(2)
+Meld-6(2)
+Messiar-6(2)
+Minaret-6
+Missile Silo-6(4)
+Neo Excavator-6(5)
+Nexor-6
+Nexusisite-6
+Nightcrawler-6(2)
+Nimbus-6(8)
+Noxious Tank-6
+Octane's Bulwark-6
+Octane-6
+Omega-6(2)
+Omenosis-6(2)
+Pantheon Progeny-6
+Pantheon Shard-6(2)
+Petrisis-6
+Primus Ultima-6
+Qotic-6
+Rampage Rumbler-6
+Rampage-6
+Sacred Sanctuary-6
+Sanctuary-6
+Sensor Driver-6(2)
+Serraco-6(3)
+Shock Disruptor-6(3)
+Skulker-6(5)
+Sporadic Nado-6(7)
+Steel Ram-6
+Stinger-6
+Stoneheart-6
+Tabitha-6
+Tartarus Scion-6
+Tazerious-6
+Terminator-4
+Terrogor-4
+Tiamat Destructor-6
+Tiamat-6(2)
+Tikal-6(2)
+Trampling Anvil-6
+Trench Hurler-6
+Trench-6(3)
+Typhon Vex-6
+Vigil-6(4)
+Vigilant Racer-6(3)
+Vigilant Wagon-6
+Vyander-6
+Windreaver-6
+Wraith-6(5)
+Xanadu-6(2)
+Xeno Mothership-6(2)
+Xillanail-6
+Yurich-6
+Zodiac Harbinger-6
