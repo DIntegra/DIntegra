@@ -46,3 +46,5 @@ G:\20 GIT\TyrantStation\TU\Data\Forms\obj\Release\DIntegra.TU.Forms.FMainForm.re
 G:\20 GIT\TyrantStation\TU\Data\Forms\obj\Release\Forms.csproj.GenerateResource.Cache
 G:\20 GIT\TyrantStation\TU\Data\Forms\obj\Release\DIntegra.TU.Forms.dll
 G:\20 GIT\TyrantStation\TU\Data\Forms\obj\Release\DIntegra.TU.Forms.pdb
+C:\Source\DIntegra\TU\Data\Forms\obj\Release\Forms.csprojResolveAssemblyReference.cache
+C:\Source\DIntegra\TU\Data\Forms\obj\Release\DIntegra.TU.Forms.FAccManager.resources

@@ -84,9 +84,17 @@ namespace DIntegra.TU.Forms
                             Console.WriteLine("Обрабатываем: " + chestDescription.Name);
                             var chest = manager.SiteChestsManager.FillChest(chestDescription);
 
-                            var guild = manager.SiteDeckManager.GetGuildByPlayer(chestDescription.Name);
+                            String guild = "";
+                            try
+                            {
+                                guild = manager.SiteDeckManager.GetGuildByPlayer(chestDescription.Name) + ".";
+                            }
+                            catch
+                            {
+                                //this.backgroundWorker1.ReportProgress(progress, "Произошла ошибка: Не удалось определить гильдию игрока. " + ex.ToString());
+                            }
 
-                            var fname = MakeSafeName(guild + "." + chestDescription.Name);
+                            var fname = MakeSafeName(guild + chestDescription.Name);
 
                             using (var f = System.IO.File.CreateText(currentCardsFolder + "\\" + fname + ".txt"))
                             {

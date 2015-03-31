@@ -1,0 +1,152 @@
+Aegis-1
+Aegis-2
+Aggeroth-1(5)
+Alaric-1
+Anvil-1(3)
+Apex-1(3)
+Arch Nova Alpha-6
+Arch Nova-1(3)
+Arkadios-1
+Ascaris-1
+Ascendant-1(2)
+Astral Strafer-1(3)
+Auger Ream-6
+Ayrkrane-1(5)
+Bane of Truth-6
+Bane-1(5)
+Barracus-6
+Benediction-1(4)
+Blackrock-1(4)
+Blitz Armor-1
+Blood Pool-1
+Bridge of Destiny-6
+Brood Mother-1
+Bulldozer-1(4)
+Burrower-1(3)
+Cannon Walker-1
+Chainslicer-6
+Chevalier-1(2)
+Chronoshift-1(3)
+Coldheart-6
+Conduit-1
+Constantine-1
+Contaminant Scour-1
+Covert Jet-1
+Cyberpod-1(3)
+Cyrus-2
+Daedalus-1
+Daemon-1(5)
+Defiance-6
+Demi Constrictor-6
+Demon of Embers-1(4)
+Deserted Baughe-6
+Divinity-1(3)
+Draconian Queen-1(2)
+Dracorex-1
+Drake-1
+Dreadship-1(3)
+Dreamhaunter-6
+Elite Soldier-1
+Elite Soldier-2(2)
+Elite Squadron-6
+Emerald Rider-1(2)
+Empress-1
+Enclave Remnant-1
+Equalizer-1(5)
+Eupnoi-1(2)
+Extinguisher-1
+Ezamit Serene-6
+Fanatic-1
+Fighter Jet-1(3)
+Geist-1(3)
+Gilgamesh-1(2)
+Glaive-1
+Gluttonous Fiend-1(2)
+Gorrus-1(4)
+Greatheart-1
+Guardian Gamut-6
+Halcyon-6
+Halesurge-1(5)
+Havoc-1(2)
+Hephatat Stoic-6
+Hexsin-1(3)
+High Constable-6
+Indebted Veteran-1(2)
+Interstellar Battery-1
+Iron Maiden-1(3)
+Irrian-1(3)
+Jet-6
+Jilted Baughe-6
+Jyackavor-1(2)
+Keres-1
+Krellus-6
+Kylen-1
+Lowbrow-1(2)
+Lucidier-1(6)
+Lurker Beast-1(7)
+Maion-1
+Malgoth-1(6)
+Malika-1
+Malort-1
+Marshall-1(2)
+Marshall-5
+Meld-1(7)
+Messiar-1(2)
+Minaret-1(2)
+Missile Silo-1(5)
+Moloch-1
+Neo Excavator-1(3)
+Nexor-6
+Nexusisite-1(2)
+Nightcrawler-1(7)
+Nimbus-1(3)
+Noxious Tank-6
+Octane's Base-1(3)
+Octane's Bulwark-6
+Octane-2
+Omega-1(2)
+Omega-2
+Omenosis-1(2)
+Pantheon Progeny-1(3)
+Pantheon Shard-1(2)
+Petrisis-1
+Primus-1(6)
+Quake-1(6)
+Rampage-1
+Reaver-1(3)
+Retriever-1(5)
+Sacred Sanctuary-6(2)
+Sanctuary-1(3)
+Sculpted Aegis-6(2)
+Sensor Driver-1(2)
+Serraco Lord-6
+Sinew Feeder-1(2)
+Skulker-1(2)
+Smog Tank-1(2)
+Sporadic Nado-1(4)
+Stealthy Niaq-1(3)
+Steel Ram-6(2)
+Subterran Horror-1
+Subterran Horror-2
+Tabitha-6
+Tartarus Scion-1(2)
+Tazerecca-6
+Tazerok-1(2)
+Terraformer-6
+Terrogor-1
+The Adversary-6
+Tikal-1(6)
+Trench-1(7)
+Tumblox-6
+Typhon Vex-6
+Vigil-1(5)
+Vigilant Racer-1(4)
+Vigilant Wagon-6
+Vyander-1
+Windreaver-1(4)
+Wraith-1(5)
+Xanadu-1(5)
+Xeno Mothership-1(6)
+Xillafang-1(6)
+Yurich-1
+Zorbo-1(2)
