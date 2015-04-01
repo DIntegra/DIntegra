@@ -33,14 +33,13 @@ namespace DIntegra.TU.Forms
             this.button1 = new System.Windows.Forms.Button();
             this.bgDeckLoader = new System.ComponentModel.BackgroundWorker();
             this.listBoxLog = new System.Windows.Forms.ListBox();
-            this.checkBoxAlldecks = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // progressBar1
             // 
             this.progressBar1.Location = new System.Drawing.Point(93, 12);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(523, 23);
+            this.progressBar1.Size = new System.Drawing.Size(440, 23);
             this.progressBar1.TabIndex = 6;
             // 
             // button1
@@ -63,27 +62,16 @@ namespace DIntegra.TU.Forms
             // listBoxLog
             // 
             this.listBoxLog.FormattingEnabled = true;
-            this.listBoxLog.Location = new System.Drawing.Point(194, 43);
+            this.listBoxLog.Location = new System.Drawing.Point(12, 43);
             this.listBoxLog.Name = "listBoxLog";
-            this.listBoxLog.Size = new System.Drawing.Size(422, 238);
+            this.listBoxLog.Size = new System.Drawing.Size(521, 238);
             this.listBoxLog.TabIndex = 8;
-            // 
-            // checkBoxAlldecks
-            // 
-            this.checkBoxAlldecks.AutoSize = true;
-            this.checkBoxAlldecks.Location = new System.Drawing.Point(12, 43);
-            this.checkBoxAlldecks.Name = "checkBoxAlldecks";
-            this.checkBoxAlldecks.Size = new System.Drawing.Size(157, 17);
-            this.checkBoxAlldecks.TabIndex = 9;
-            this.checkBoxAlldecks.Text = "Скачать вообще все деки";
-            this.checkBoxAlldecks.UseVisualStyleBackColor = true;
             // 
             // FDeckUpdater
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(628, 293);
-            this.Controls.Add(this.checkBoxAlldecks);
+            this.ClientSize = new System.Drawing.Size(542, 293);
             this.Controls.Add(this.listBoxLog);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.progressBar1);
@@ -94,7 +82,6 @@ namespace DIntegra.TU.Forms
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FDeckUpdater_FormClosing);
             this.Load += new System.EventHandler(this.FDeckUpdater_Load);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -104,6 +91,5 @@ namespace DIntegra.TU.Forms
         private System.Windows.Forms.Button button1;
         private System.ComponentModel.BackgroundWorker bgDeckLoader;
         private System.Windows.Forms.ListBox listBoxLog;
-        private CheckBox checkBoxAlldecks;
     }
 }

@@ -87,34 +87,18 @@ namespace DIntegra.TU.Forms
 
                 SiteDataManager manager = new SiteDataManager("russia", "mother", this._currentCred.Password);
 
-                int size = 23;
-
-                Boolean downloadAll = Convert.ToBoolean( e.Argument );
-
-                if (downloadAll)
-                {
-                    size = int.MaxValue;
-                }
+                int size = 25;
 
                 this.bgDeckLoader.ReportProgress(progress, "Подключаемся к сайту");
-                var pagesenumerator = manager.SiteDeckManager.getDeckPages(size);
-
-                List<String> pages = new List<String>();
-                foreach (String page in pagesenumerator)
-                {
-                    pages.Add(page);
-                }
-
-                int pagesCount = pages.Count;
-
+                var pages = manager.SiteDeckManager.getDeckPages(size);
+                
+                int step = 100 / size;
                 using (var file = CurrentCredential.Engine.DeckManager.OpenForWrite())
                 {
                     using (StreamWriter f = new StreamWriter(file))
                     {
-                        for(int pageIngex = 0; pageIngex < pagesCount; pageIngex++)
+                        foreach (String page in pages)
                         {
-                            String page = pages[pageIngex];
-
                             this.bgDeckLoader.ReportProgress(progress, "Обрабатываем " + page);
 
                             try
@@ -131,8 +115,8 @@ namespace DIntegra.TU.Forms
                                 this.bgDeckLoader.ReportProgress(progress, ex.Message);
                             }
 
-                            progress = ((100000 * pageIngex) / pagesCount) /1000;
-                            this.bgDeckLoader.ReportProgress(progress/100);
+                            progress = progress + step;
+                            this.bgDeckLoader.ReportProgress(progress);
                         }
                     }
 
@@ -190,7 +174,7 @@ namespace DIntegra.TU.Forms
             this.bgDeckLoader.DoWork += bgDeckLoader_DoWork;
             this.bgDeckLoader.ProgressChanged += bgDeckLoader_ProgressChanged;
             this.bgDeckLoader.RunWorkerCompleted += bgDeckLoader_RunWorkerCompleted;            
-            this.bgDeckLoader.RunWorkerAsync(this.checkBoxAlldecks.Checked);
+            this.bgDeckLoader.RunWorkerAsync();
         }
     }
 }
