@@ -14,6 +14,8 @@ namespace DIntegra.TU.Forms
 
         internal Boolean GetCurrentCollection { get; set; }
 
+        internal Boolean LookForPlayerGuild { get; set; }
+
         internal ChestsDownloaderSettings()
         {
             this._levelFilter = new List<int>();

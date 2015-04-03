@@ -15,7 +15,15 @@ namespace DIntegra.TU.Data
 
         internal UserChestDescription(String name, String id, String url)
         {
-            this._name = name;
+            this._name = name
+                .Replace(@"/", "")
+                .Replace(@"\", "")
+                .Replace(@"{", "")
+                .Replace(@"}", "")
+                .Replace(@"[", "")
+                .Replace(@"]", "")
+                .Replace(@"&lt;", "")
+                .Replace(@"&gt;", ""); 
             this._id = id;
             this._url = url;
         }

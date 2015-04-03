@@ -85,13 +85,17 @@ namespace DIntegra.TU.Forms
                             var chest = manager.SiteChestsManager.FillChest(chestDescription);
 
                             String guild = "";
-                            try
+
+                            if (settings.LookForPlayerGuild)
                             {
-                                guild = manager.SiteDeckManager.GetGuildByPlayer(chestDescription.Name) + ".";
-                            }
-                            catch
-                            {
-                                //this.backgroundWorker1.ReportProgress(progress, "Произошла ошибка: Не удалось определить гильдию игрока. " + ex.ToString());
+                                try
+                                {
+                                    guild = manager.SiteDeckManager.GetGuildByPlayer(chestDescription.Name) + ".";
+                                }
+                                catch
+                                {
+                                    //this.backgroundWorker1.ReportProgress(progress, "Произошла ошибка: Не удалось определить гильдию игрока. " + ex.ToString());
+                                }
                             }
 
                             var fname = MakeSafeName(guild + chestDescription.Name);
@@ -197,6 +201,7 @@ namespace DIntegra.TU.Forms
             settings.GetAllFusesCollection = this.cbAllFuses.Checked;
             settings.GetAllMaxedCollection = this.cbAllMaxed.Checked;
             settings.GetCurrentCollection = this.cbCurrCards.Checked;
+            settings.LookForPlayerGuild = this.cbLookUpForGuild.Checked;
 
             if (this.cbLevel1.Checked)
             {

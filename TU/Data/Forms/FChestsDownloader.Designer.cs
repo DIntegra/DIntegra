@@ -35,16 +35,19 @@
             this.cbAllMaxed = new System.Windows.Forms.CheckBox();
             this.cbAllFuses = new System.Windows.Forms.CheckBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.cbLevel1 = new System.Windows.Forms.CheckBox();
-            this.cbLevel2 = new System.Windows.Forms.CheckBox();
-            this.cbLevel3 = new System.Windows.Forms.CheckBox();
-            this.cbLevel4 = new System.Windows.Forms.CheckBox();
-            this.cbLevel5 = new System.Windows.Forms.CheckBox();
-            this.cbLevel6 = new System.Windows.Forms.CheckBox();
             this.cbCurrCards = new System.Windows.Forms.CheckBox();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.cbLevel6 = new System.Windows.Forms.CheckBox();
+            this.cbLevel5 = new System.Windows.Forms.CheckBox();
+            this.cbLevel4 = new System.Windows.Forms.CheckBox();
+            this.cbLevel3 = new System.Windows.Forms.CheckBox();
+            this.cbLevel2 = new System.Windows.Forms.CheckBox();
+            this.cbLevel1 = new System.Windows.Forms.CheckBox();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.cbLookUpForGuild = new System.Windows.Forms.CheckBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
+            this.groupBox3.SuspendLayout();
             this.SuspendLayout();
             // 
             // progressBar
@@ -69,7 +72,7 @@
             this.listBoxLog.FormattingEnabled = true;
             this.listBoxLog.Location = new System.Drawing.Point(344, 40);
             this.listBoxLog.Name = "listBoxLog";
-            this.listBoxLog.Size = new System.Drawing.Size(459, 277);
+            this.listBoxLog.Size = new System.Drawing.Size(459, 329);
             this.listBoxLog.TabIndex = 2;
             // 
             // backgroundWorker1
@@ -116,6 +119,18 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Дополнительные сеты";
             // 
+            // cbCurrCards
+            // 
+            this.cbCurrCards.AutoSize = true;
+            this.cbCurrCards.Checked = true;
+            this.cbCurrCards.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.cbCurrCards.Location = new System.Drawing.Point(6, 65);
+            this.cbCurrCards.Name = "cbCurrCards";
+            this.cbCurrCards.Size = new System.Drawing.Size(190, 17);
+            this.cbCurrCards.TabIndex = 13;
+            this.cbCurrCards.Text = "Скачивать текущий список карт";
+            this.cbCurrCards.UseVisualStyleBackColor = true;
+            // 
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.cbLevel6);
@@ -131,45 +146,15 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Фильтры для текущих запасов";
             // 
-            // cbLevel1
+            // cbLevel6
             // 
-            this.cbLevel1.AutoSize = true;
-            this.cbLevel1.Location = new System.Drawing.Point(7, 20);
-            this.cbLevel1.Name = "cbLevel1";
-            this.cbLevel1.Size = new System.Drawing.Size(224, 17);
-            this.cbLevel1.TabIndex = 0;
-            this.cbLevel1.Text = "Не скачивать карты с прокачкой на +1";
-            this.cbLevel1.UseVisualStyleBackColor = true;
-            // 
-            // cbLevel2
-            // 
-            this.cbLevel2.AutoSize = true;
-            this.cbLevel2.Location = new System.Drawing.Point(6, 43);
-            this.cbLevel2.Name = "cbLevel2";
-            this.cbLevel2.Size = new System.Drawing.Size(224, 17);
-            this.cbLevel2.TabIndex = 1;
-            this.cbLevel2.Text = "Не скачивать карты с прокачкой на +2";
-            this.cbLevel2.UseVisualStyleBackColor = true;
-            // 
-            // cbLevel3
-            // 
-            this.cbLevel3.AutoSize = true;
-            this.cbLevel3.Location = new System.Drawing.Point(7, 66);
-            this.cbLevel3.Name = "cbLevel3";
-            this.cbLevel3.Size = new System.Drawing.Size(224, 17);
-            this.cbLevel3.TabIndex = 2;
-            this.cbLevel3.Text = "Не скачивать карты с прокачкой на +3";
-            this.cbLevel3.UseVisualStyleBackColor = true;
-            // 
-            // cbLevel4
-            // 
-            this.cbLevel4.AutoSize = true;
-            this.cbLevel4.Location = new System.Drawing.Point(7, 89);
-            this.cbLevel4.Name = "cbLevel4";
-            this.cbLevel4.Size = new System.Drawing.Size(224, 17);
-            this.cbLevel4.TabIndex = 3;
-            this.cbLevel4.Text = "Не скачивать карты с прокачкой на +4";
-            this.cbLevel4.UseVisualStyleBackColor = true;
+            this.cbLevel6.AutoSize = true;
+            this.cbLevel6.Location = new System.Drawing.Point(7, 135);
+            this.cbLevel6.Name = "cbLevel6";
+            this.cbLevel6.Size = new System.Drawing.Size(224, 17);
+            this.cbLevel6.TabIndex = 5;
+            this.cbLevel6.Text = "Не скачивать карты с прокачкой на +6";
+            this.cbLevel6.UseVisualStyleBackColor = true;
             // 
             // cbLevel5
             // 
@@ -181,33 +166,72 @@
             this.cbLevel5.Text = "Не скачивать карты с прокачкой на +5";
             this.cbLevel5.UseVisualStyleBackColor = true;
             // 
-            // cbLevel6
+            // cbLevel4
             // 
-            this.cbLevel6.AutoSize = true;
-            this.cbLevel6.Location = new System.Drawing.Point(7, 135);
-            this.cbLevel6.Name = "cbLevel6";
-            this.cbLevel6.Size = new System.Drawing.Size(224, 17);
-            this.cbLevel6.TabIndex = 5;
-            this.cbLevel6.Text = "Не скачивать карты с прокачкой на +6";
-            this.cbLevel6.UseVisualStyleBackColor = true;
+            this.cbLevel4.AutoSize = true;
+            this.cbLevel4.Location = new System.Drawing.Point(7, 89);
+            this.cbLevel4.Name = "cbLevel4";
+            this.cbLevel4.Size = new System.Drawing.Size(224, 17);
+            this.cbLevel4.TabIndex = 3;
+            this.cbLevel4.Text = "Не скачивать карты с прокачкой на +4";
+            this.cbLevel4.UseVisualStyleBackColor = true;
             // 
-            // cbCurrCards
+            // cbLevel3
             // 
-            this.cbCurrCards.AutoSize = true;
-            this.cbCurrCards.Checked = true;
-            this.cbCurrCards.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.cbCurrCards.Location = new System.Drawing.Point(6, 65);
-            this.cbCurrCards.Name = "cbCurrCards";
-            this.cbCurrCards.Size = new System.Drawing.Size(190, 17);
-            this.cbCurrCards.TabIndex = 13;
-            this.cbCurrCards.Text = "Скачивать текущий список карт";
-            this.cbCurrCards.UseVisualStyleBackColor = true;
+            this.cbLevel3.AutoSize = true;
+            this.cbLevel3.Location = new System.Drawing.Point(7, 66);
+            this.cbLevel3.Name = "cbLevel3";
+            this.cbLevel3.Size = new System.Drawing.Size(224, 17);
+            this.cbLevel3.TabIndex = 2;
+            this.cbLevel3.Text = "Не скачивать карты с прокачкой на +3";
+            this.cbLevel3.UseVisualStyleBackColor = true;
+            // 
+            // cbLevel2
+            // 
+            this.cbLevel2.AutoSize = true;
+            this.cbLevel2.Location = new System.Drawing.Point(6, 43);
+            this.cbLevel2.Name = "cbLevel2";
+            this.cbLevel2.Size = new System.Drawing.Size(224, 17);
+            this.cbLevel2.TabIndex = 1;
+            this.cbLevel2.Text = "Не скачивать карты с прокачкой на +2";
+            this.cbLevel2.UseVisualStyleBackColor = true;
+            // 
+            // cbLevel1
+            // 
+            this.cbLevel1.AutoSize = true;
+            this.cbLevel1.Location = new System.Drawing.Point(7, 20);
+            this.cbLevel1.Name = "cbLevel1";
+            this.cbLevel1.Size = new System.Drawing.Size(224, 17);
+            this.cbLevel1.TabIndex = 0;
+            this.cbLevel1.Text = "Не скачивать карты с прокачкой на +1";
+            this.cbLevel1.UseVisualStyleBackColor = true;
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.cbLookUpForGuild);
+            this.groupBox3.Location = new System.Drawing.Point(13, 324);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(324, 45);
+            this.groupBox3.TabIndex = 15;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "Обработка ников";
+            // 
+            // cbLookUpForGuild
+            // 
+            this.cbLookUpForGuild.AutoSize = true;
+            this.cbLookUpForGuild.Location = new System.Drawing.Point(7, 20);
+            this.cbLookUpForGuild.Name = "cbLookUpForGuild";
+            this.cbLookUpForGuild.Size = new System.Drawing.Size(213, 17);
+            this.cbLookUpForGuild.TabIndex = 0;
+            this.cbLookUpForGuild.Text = "Пытаться найти гильдию для игрока";
+            this.cbLookUpForGuild.UseVisualStyleBackColor = true;
             // 
             // FChestsDownloader
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(813, 324);
+            this.ClientSize = new System.Drawing.Size(813, 381);
+            this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.listBoxLog);
@@ -221,6 +245,8 @@
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
+            this.groupBox3.ResumeLayout(false);
+            this.groupBox3.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -242,5 +268,7 @@
         private System.Windows.Forms.CheckBox cbLevel2;
         private System.Windows.Forms.CheckBox cbLevel1;
         private System.Windows.Forms.CheckBox cbCurrCards;
+        private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.CheckBox cbLookUpForGuild;
     }
 }
