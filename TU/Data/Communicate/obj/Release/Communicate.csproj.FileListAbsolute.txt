@@ -1,0 +1,10 @@
+C:\Source\DIntegra\TU\Data\Communicate\obj\Release\Communicate.csprojResolveAssemblyReference.cache
+C:\Source\DIntegra\TU\Data\Communicate\bin\Release\DIntegra.TU.Communicate.dll
+C:\Source\DIntegra\TU\Data\Communicate\bin\Release\DIntegra.TU.Communicate.pdb
+C:\Source\DIntegra\TU\Data\Communicate\bin\Release\DIntegra.TU.Engine.dll
+C:\Source\DIntegra\TU\Data\Communicate\bin\Release\DIntegra.TU.Data.dll
+C:\Source\DIntegra\TU\Data\Communicate\bin\Release\Ionic.Zip.dll
+C:\Source\DIntegra\TU\Data\Communicate\bin\Release\DIntegra.TU.Engine.pdb
+C:\Source\DIntegra\TU\Data\Communicate\bin\Release\DIntegra.TU.Data.pdb
+C:\Source\DIntegra\TU\Data\Communicate\obj\Release\DIntegra.TU.Communicate.dll
+C:\Source\DIntegra\TU\Data\Communicate\obj\Release\DIntegra.TU.Communicate.pdb

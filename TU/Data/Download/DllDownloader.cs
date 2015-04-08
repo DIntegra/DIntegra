@@ -18,6 +18,7 @@ namespace DIntegra.TU.Download
             DLLs.Add( "Dintegra.TU.Engine.dll", "https://drive.google.com/uc?export=download&id=0B-umPckBC-iMRE15Q1BRWEc0c00");
             DLLs.Add("Icon.ico", "https://drive.google.com/uc?export=download&id=0B-umPckBC-iMZ0NialE5cTg1Rnc");
             DLLs.Add("Ionic.Zip.dll", "https://drive.google.com/uc?export=download&id=0B-umPckBC-iMNjZ2MnNOdUgwbXc");
+            DLLs.Add("Newtonsoft.Json.dll", "https://drive.google.com/uc?export=download&id=0B-umPckBC-iMMmwxekVOZEg2Uk0");
 
             return DLLs;
         }
